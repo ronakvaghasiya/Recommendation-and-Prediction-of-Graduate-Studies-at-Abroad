@@ -1,0 +1,3001 @@
+ranking,World Rank,University,Country,Rank
+1,1,Harvard University,US,5
+2,2,Stanford University,US,5
+3,3,Massachusetts Institute of Technology,US,5
+4,4,University of California Berkeley,US,5
+5,5,University of Washington,US,5
+6,6,University of Michigan,US,5
+7,8,Columbia University New York,US,5
+8,8,Cornell University,US,5
+9,10,University of Pennsylvania,US,5
+10,12,University of California Los Angeles UCLA,US,5
+11,13,Yale University,US,5
+12,14,University of Wisconsin Madison,US,5
+13,15,(2) Johns Hopkins University,US,5
+14,16,University of California San Diego,US,5
+15,17,University of Minnesota System,US,5
+16,19,Duke University,US,5
+17,20,(2) Pennsylvania State University,US,5
+18,22,Princeton University,US,5
+19,23,University of Texas Austin,US,5
+20,24,New York University,US,5
+21,25,University of Chicago,US,5
+22,26,Northwestern University,US,5
+23,27,University of North Carolina Chapel Hill,US,5
+24,28,University of Illinois Urbana Champaign,US,5
+25,30,University of Southern California,US,5
+26,31,University of Florida,US,5
+27,32,University of California Irvine,US,5
+28,34,Ohio State University,US,5
+29,35,University of Maryland College Park,US,5
+30,36,(2) California Institute of Technology Caltech,US,5
+31,37,Purdue University,US,5
+32,38,Carnegie Mellon University,US,5
+33,39,Michigan State University,US,5
+34,41,University of Pittsburgh,US,5
+35,42,Washington University Saint Louis,US,5
+36,44,Boston University,US,5
+37,45,University of Arizona,US,5
+38,46,Rutgers The State University of New Jersey,US,5
+39,48,University of California San Francisco,US,5
+40,51,University of Colorado Boulder,US,5
+41,52,Arizona State University,US,5
+42,57,Georgia Institute of Technology,US,5
+43,59,University of Virginia,US,5
+44,60,Texas A&M University,US,5
+45,62,Vanderbilt University,US,5
+46,64,University of Utah,US,5
+47,66,University of California Santa Barbara,US,5
+48,70,Emory University,US,5
+49,71,Brown University,US,5
+50,72,University of Iowa,US,5
+51,74,North Carolina State University,US,5
+52,76,Indiana University Bloomington,US,5
+53,80,Virginia Polytechnic Institute and State University,US,5
+54,87,Tufts University,US,5
+55,88,University of Rochester,US,5
+56,92,University of Massachusetts Amherst,US,5
+57,92,City University of New York,US,5
+58,94,Iowa State University,US,5
+59,97,University of Delaware,US,5
+60,101,University of Georgia,US,5
+61,105,University of Maryland Baltimore,US,5
+62,106,Oregon State University,US,5
+63,106,University of Illinois Chicago,US,5
+64,109,University at Buffalo,US,5
+65,110,Colorado State University,US,5
+66,114,Rice University,US,5
+67,118,University of Nebraska Lincoln,US,5
+68,120,University of Tennessee Knoxville,US,5
+69,121,Florida State University,US,5
+70,126,Dartmouth College,US,5
+71,127,University of California Riverside,US,5
+72,131,University of Miami,US,5
+73,132,University of California Santa Cruz,US,5
+74,134,University of Kentucky,US,5
+75,135,George Washington University,US,5
+76,137,University of Connecticut,US,5
+77,139,Temple University,US,5
+78,144,University of Notre Dame,US,5
+79,144,University of Kansas,US,5
+80,146,Georgetown University,US,5
+81,147,Case Western Reserve University,US,5
+82,150,University of South Florida,US,5
+83,152,University of New Mexico,US,5
+84,158,University of Missouri Columbia,US,5
+85,163,University of Cincinnati,US,5
+86,165,Washington State University Pullman,US,5
+87,171,George Mason University,US,5
+88,172,University of Houston,US,5
+89,176,University of Alabama Birmingham,US,5
+90,177,University of Oregon,US,5
+91,181,University of South Carolina,US,5
+92,185,Wayne State University,US,5
+93,187,Northeastern University,US,5
+94,190,University of Oklahoma,US,5
+95,193,Stony Brook University,US,5
+96,205,M D Anderson Cancer Center University of Texas,US,5
+97,207,Virginia Commonwealth University,US,5
+98,218,Louisiana State University,US,5
+99,222,Brigham Young University,US,5
+100,224,University of Central Florida,US,5
+101,229,Drexel University,US,5
+102,231,University of Colorado Denver,US,5
+103,240,Indiana University/Purdue University Indianapolis,US,5
+104,247,Georgia State University,US,5
+105,248,University of California Davis,US,5
+106,258,Florida International University,US,5
+107,259,University of Texas Dallas,US,5
+108,263,Baylor College of Medicine,US,5
+109,278,Oregon Health & Science University,US,5
+110,287,University of Vermont,US,5
+111,291,Clemson University,US,5
+112,299,Rensselaer Polytechnic Institute,US,5
+113,299,University of Alabama,US,5
+114,306,Boston College,US,5
+115,311,West Virginia University,US,5
+116,316,University of North Texas,US,5
+117,323,San Diego State University,US,5
+118,326,University of New Hampshire,US,5
+119,326,University of Texas Southwestern Medical Center at Dallas,US,5
+120,334,Utah State University,US,5
+121,336,Oklahoma State University Stillwater,US,5
+122,338,Wake Forest University,US,5
+123,341,University at Albany,US,5
+124,342,Tulane University,US,5
+125,344,Auburn University,US,5
+126,346,Texas Tech University,US,5
+127,352,University of Texas Arlington,US,5
+128,353,University of Louisville,US,5
+129,358,University of Wisconsin Milwaukee,US,5
+130,386,Kent State University,US,5
+131,388,Kansas State University,US,5
+132,389,University of Mississippi,US,5
+133,392,Baylor University,US,5
+134,401,Southern Methodist University,US,5
+135,405,Old Dominion University,US,5
+136,407,University of Arkansas Fayetteville,US,5
+137,410,University of Massachusetts Medical School at Worcester,US,5
+138,412,Brandeis University,US,5
+139,419,Portland State University,US,5
+140,421,Rochester Institute of Technology,US,5
+141,424,University of Nevada Reno,US,5
+142,425,University of Maryland Baltimore County,US,5
+143,437,Mississippi State University,US,5
+144,442,College of William & Mary,US,5
+145,443,University of Texas San Antonio,US,5
+146,452,University of Wyoming,US,5
+147,453,Michigan Technological University,US,5
+148,456,University of Nevada Las Vegas,US,5
+149,457,Montana State University,US,5
+150,457,Loyola University Chicago,US,5
+151,460,Saint Louis University,US,5
+152,461,University of North Carolina Charlotte,US,5
+153,464,New Mexico State University,US,5
+154,466,Medical University of South Carolina,US,5
+155,468,Jefferson (Philadelphia University and Thomas Jefferson University),US,5
+156,469,University of Missouri Kansas City,US,5
+157,471,University of Idaho,US,5
+158,475,University of Rhode Island,US,5
+159,488,Illinois Institute of Technology,US,5
+160,491,Lehigh University,US,5
+161,496,(3) University of Texas Health Science Center at San Antonio,US,5
+162,510,Northern Illinois University,US,5
+163,514,Rockefeller University,US,5
+164,517,University of Denver,US,5
+165,520,Ohio University,US,5
+166,521,Binghamton University,US,5
+167,523,American University Washington DC,US,5
+168,530,Medical College of Wisconsin,US,5
+169,530,University of Akron,US,5
+170,537,Fordham University,US,5
+171,540,Northern Arizona University,US,5
+172,541,University of Massachusetts Boston,US,5
+173,550,Icahn School of Medicine at Mount Sinai,US,5
+174,551,Florida Atlantic University,US,5
+175,552,Southern Illinois University,US,5
+176,556,New Jersey Institute of Technology,US,5
+177,562,(3) University of Kansas Medical Center,US,5
+178,563,San Francisco State University,US,5
+179,567,University of Texas El Paso,US,5
+180,567,Worcester Polytechnic Institute,US,5
+181,573,East Carolina University,US,5
+182,577,Colorado School of Mines,US,5
+183,581,University of Toledo,US,5
+184,589,University of Montana Missoula,US,5
+185,603,University of North Carolina at Greensboro,US,5
+186,607,Miami University of Ohio,US,5
+187,611,North Dakota State University,US,5
+188,624,(3) University of Texas Medical Branch Galveston,US,5
+189,643,University of Memphis (including Lambuth),US,5
+190,643,San José State University,US,5
+191,650,Missouri University of Science & Technology,US,5
+192,657,University of California Merced,US,5
+193,662,University of Nebraska Medical Center,US,5
+194,663,Wright State University,US,5
+195,669,Marquette University,US,5
+196,675,Depaul University,US,5
+197,677,University of Massachusetts Lowell,US,5
+198,679,Texas State University,US,5
+199,681,University of North Dakota,US,5
+200,687,Creighton University,US,5
+201,689,Western Michigan University,US,5
+202,690,Bowling Green State University,US,5
+203,696,California State University Los Angeles,US,5
+204,701,California Polytechnic State University Cal Poly,US,5
+205,707,California State University Northridge,US,5
+206,709,Villanova University,US,5
+207,714,California State University Fullerton,US,5
+208,719,Boise State University,US,5
+209,724,Nova Southeastern University,US,5
+210,730,Oakland University,US,5
+211,736,Santa Clara University,US,5
+212,737,Florida Institute of Technology,US,5
+213,740,Yeshiva University,US,5
+214,774,University of Southern Mississippi,US,5
+215,783,California State University Long Beach,US,5
+216,800,Augusta University (Georgia Regents University Augusta State University),US,5
+217,801,University of Arkansas for Medical Sciences,US,5
+218,806,James Madison University,US,5
+219,819,Howard University,US,5
+220,820,South Dakota State University,US,5
+221,824,Western Washington University,US,5
+222,826,University of Missouri Saint Louis,US,5
+223,827,Central Michigan University,US,5
+224,827,Cleveland State University,US,5
+225,835,Chapman University,US,5
+226,841,University of Nebraska Omaha,US,5
+227,845,Appalachian State University,US,5
+228,846,Clark University,US,5
+229,847,Loma Linda University,US,5
+230,851,Bucknell University,US,5
+231,852,Montclair State University,US,5
+232,859,Institute for Advanced Study,US,5
+233,866,Texas Christian University,US,5
+234,871,The New School,US,5
+235,878,Stevens Institute of Technology,US,5
+236,888,Wesleyan University,US,5
+237,890,(3) University of Oklahoma Health Sciences Center,US,5
+238,890,Georgia Southern University,US,5
+239,894,(3) University of Tennessee Health Science Center Memphis,US,5
+240,895,University of Alabama Huntsville,US,5
+241,904,Towson University (Baltimore Hebrew University),US,5
+242,906,Ball State University,US,5
+243,906,University of Massachusetts Dartmouth,US,5
+244,908,Rowan University,US,5
+245,917,Kennesaw State University,US,5
+246,924,University of North Carolina Wilmington,US,5
+247,927,University of San Francisco,US,5
+248,934,University of Hawaii at Manoa,US,5
+249,935,East Tennessee State University,US,5
+250,940,(1) California State University Fresno,US,5
+251,945,Swarthmore College,US,5
+252,948,Wellesley College,US,5
+253,951,Duquesne University,US,5
+254,952,College of Charleston,US,5
+255,957,University of Colorado Colorado Springs,US,5
+256,957,Smith College,US,5
+257,957,University of Richmond,US,5
+258,967,Wichita State University,US,5
+259,969,Western Kentucky University,US,5
+260,969,University of San Diego,US,5
+261,975,Uniformed Services University of the Health Sciences,US,5
+262,984,Carleton College,US,5
+263,987,Louisiana Tech University,US,5
+264,990,Santa Fe Institute,US,5
+265,991,University of South Dakota,US,5
+266,995,Hofstra University,US,5
+267,1001,Pace University,US,5
+268,1004,California State University Sacramento / Sacramento State,US,5
+269,1007,Central European University Budapest / Közép-európai Egyetem,US,5
+270,1011,University of Tulsa,US,5
+271,1013,Grand Valley State University,US,5
+272,1019,New Mexico Institute of Mining & Technology New Mexico Tech,US,5
+273,1024,Idaho State University,US,5
+274,1030,University of Arkansas Little Rock,US,5
+275,1031,Sam Houston State University,US,5
+276,1037,Weill Medical College Cornell University,US,5
+277,1048,CUNY Graduate Center,US,5
+278,1055,University of North Florida,US,5
+279,1057,University of Mississippi Medical Center,US,5
+280,1068,Marshall University,US,5
+281,1075,Embry Riddle Aeronautical University,US,5
+282,1078,Middlebury College,US,5
+283,1078,University of Alaska Fairbanks,US,5
+284,1089,University of Louisiana at Lafayette,US,5
+285,1100,Naval Postgraduate School,US,5
+286,1101,Loyola Marymount University,US,5
+287,1102,Manhattan College,US,5
+288,1109,University of New Orleans,US,5
+289,1112,State University of New York Upstate Medical University,US,5
+290,1114,Fairfield University,US,5
+291,1116,Williams College,US,5
+292,1122,Southern Illinois University Edwardsville,US,5
+293,1128,Amherst College,US,5
+294,1130,Oberlin College,US,5
+295,1130,University of South Alabama,US,5
+296,1136,(3) Texas Tech University Health Sciences Center,US,5
+297,1141,United States Naval Academy,US,5
+298,1150,Mount Holyoke College,US,5
+299,1165,University of Colorado System,US,5
+300,1167,Sonoma State University,US,5
+301,1169,Saint John's University,US,5
+302,1172,Trinity University San Antonio,US,5
+303,1173,State University of New York College of Environmental Science and Forestry,US,5
+304,1183,New York Medical College,US,5
+305,1184,Syracuse University,US,5
+306,1193,Bryn Mawr College,US,5
+307,1196,University of Maine,US,5
+308,1202,Middle Tennessee State University,US,5
+309,1207,Lamar University,US,5
+310,1210,University of Texas Rio Grande Valley,US,5
+311,1227,Missouri State University,US,5
+312,1231,(3) Barnard College Columbia University,US,5
+313,1234,State University of New York Downstate Medical Center Brooklyn,US,5
+314,1242,Colby College,US,5
+315,1244,California State University Chico,US,5
+316,1251,Bowdoin College,US,5
+317,1253,University of Tennessee Chattanooga,US,5
+318,1261,University of Northern Iowa,US,5
+319,1267,Haverford College,US,5
+320,1280,North Carolina Agricultural & Technical State University,US,5
+321,1283,CUNY Hunter College,US,5
+322,1284,Humboldt State University,US,5
+323,1290,Babson College,US,5
+324,1292,Eastern Michigan University,US,5
+325,1294,Seton Hall University,US,5
+326,1295,University of the Pacific,US,5
+327,1295,(3) University of Maryland Center for Environmental Science,US,5
+328,1295,University of Saint Thomas Saint Paul,US,5
+329,1308,Bentley University,US,5
+330,1325,(3) Stony Brook Medicine,US,5
+331,1335,Adelphi University,US,5
+332,1339,Seattle University,US,5
+333,1339,Elon University,US,5
+334,1343,Pomona College,US,5
+335,1343,Claremont Graduate University,US,5
+336,1352,Texas A&M University Corpus Christi,US,5
+337,1361,Jackson State University,US,5
+338,1362,Macalester College,US,5
+339,1363,West Chester University of Pennsylvania,US,5
+340,1373,University of Northern Colorado,US,5
+341,1377,(3) University of Minnesota Duluth,US,5
+342,1379,Pepperdine University,US,5
+343,1380,Hampton University,US,5
+344,1386,Bard College,US,5
+345,1393,Indiana State University,US,5
+346,1398,Kenyon College,US,5
+347,1409,Tennessee Technological University,US,5
+348,1426,Simmons College,US,5
+349,1435,Loyola University Maryland,US,5
+350,1438,Desert Research Institute,US,5
+351,1438,Colgate University,US,5
+352,1448,Vassar College,US,5
+353,1452,University of West Florida,US,5
+354,1452,Ithaca College,US,5
+355,1458,Reed College,US,5
+356,1458,College of New Jersey,US,5
+357,1462,State University of New York at New Paltz,US,5
+358,1463,Albany Medical College,US,5
+359,1467,Harvey Mudd College,US,5
+360,1469,California State University San Bernardino,US,5
+361,1477,California Polytechnic State University Cal Poly Pomona,US,5
+362,1481,Youngstown State University,US,5
+363,1483,Long Island University,US,5
+364,1489,Indiana University of Pennsylvania,US,5
+365,1493,Utah Valley University,US,5
+366,1505,Western Carolina University,US,5
+367,1510,California State University San Marcos,US,5
+368,1510,Hobart and William Smith Colleges,US,5
+369,1515,Bates College,US,5
+370,1516,Morgan State University,US,5
+371,1516,South Dakota School of Mines & Technology,US,5
+372,1519,Gettysburg College,US,5
+373,1519,Calvin University,US,5
+374,1525,Lafayette College,US,5
+375,1528,Skidmore College,US,5
+376,1531,Suffolk University,US,5
+377,1531,Occidental College,US,5
+378,1539,(3) University of Florida Health,US,5
+379,1544,Illinois State University,US,5
+380,1548,University of Wisconsin Eau Claire,US,5
+381,1551,Eastern Illinois University,US,5
+382,1554,University of Wisconsin Oshkosh,US,5
+383,1567,University of North Texas Health Science Center,US,5
+384,1571,Florida Gulf Coast University,US,5
+385,1576,Hope College,US,5
+386,1577,Eastern Kentucky University,US,5
+387,1578,Dickinson College,US,5
+388,1584,Furman University,US,5
+389,1594,City College of New York CUNY,US,5
+390,1599,California State University East Bay,US,5
+391,1605,University of Wisconsin Whitewater,US,5
+392,1614,Purdue University Northwest,US,5
+393,1614,Monmouth University,US,5
+394,1618,Liberty University,US,5
+395,1623,Trinity College,US,5
+396,1626,Bradley University,US,5
+397,1626,Grinnell College,US,5
+398,1629,New York Institute of Technology,US,5
+399,1633,Eastern Virginia Medical School,US,5
+400,1636,University of Central Arkansas,US,5
+401,1641,Franklin & Marshall College,US,5
+402,1641,Central Washington University,US,5
+403,1643,North Carolina Central University,US,5
+404,1645,Abilene Christian University,US,5
+405,1662,Davidson College,US,5
+406,1664,Hamilton College,US,5
+407,1676,Weber State University,US,5
+408,1681,Northern Kentucky University,US,5
+409,1691,Western Illinois University,US,5
+410,1692,University of Wisconsin la Crosse,US,5
+411,1693,Saint Joseph's University,US,5
+412,1693,Florida Agricultural & Mechanical University,US,5
+413,1699,(4) Walden University (National Technological University),US,5
+414,1699,Butler University,US,5
+415,1705,(3) Southern Illinois University School of Medicine,US,5
+416,1706,Widener University,US,5
+417,1708,Tennessee State University,US,5
+418,1714,William Paterson University of New Jersey,US,5
+419,1722,Gonzaga University,US,5
+420,1726,Rollins College,US,5
+421,1727,Andrews University,US,5
+422,1727,College of the Holy Cross,US,5
+423,1732,Stetson University,US,5
+424,1735,Texas Woman's University,US,5
+425,1747,Connecticut College,US,5
+426,1751,Rider University,US,5
+427,1756,University of New England Maine,US,5
+428,1759,Azusa Pacific University,US,5
+429,1762,La Salle University,US,5
+430,1765,Colorado College,US,5
+431,1776,Marist College,US,5
+432,1778,Siena College,US,5
+433,1779,Fairleigh Dickinson University,US,5
+434,1780,Wheaton College Illinois,US,5
+435,1781,State University of New York at Oswego,US,5
+436,1786,University of West Georgia,US,5
+437,1791,University of Dayton,US,5
+438,1798,Xavier University of Cincinnati,US,5
+439,1810,High Point University,US,5
+440,1815,Arkansas State University,US,5
+441,1834,Pacific University Oregon,US,5
+442,1835,Claremont Mckenna College,US,5
+443,1842,Coastal Carolina University,US,5
+444,1842,Willamette University,US,5
+445,1848,Chicago State University,US,5
+446,1863,Delaware State University,US,5
+447,1875,Lewis & Clark College,US,5
+448,1875,Valparaiso University,US,5
+449,1886,Drake University,US,5
+450,1894,CUNY Queens College,US,5
+451,1894,California State University Bakersfield,US,5
+452,1896,Seattle Pacific University,US,5
+453,1902,Texas A&M University Kingsville,US,5
+454,1903,Saint Olaf College,US,5
+455,1906,University of Baltimore,US,5
+456,1908,Kean University,US,5
+457,1915,Emerson College,US,5
+458,1916,Eastern Washington University,US,5
+459,1919,Catholic University of America,US,5
+460,1923,Radford University,US,5
+461,1932,Southern Connecticut State University,US,5
+462,1936,Rhodes College,US,5
+463,1940,Troy University,US,5
+464,1942,Saint Cloud State University,US,5
+465,1942,University of Houston Clear Lake,US,5
+466,1955,University of Evansville,US,5
+467,1959,University of New Haven,US,5
+468,1965,Western University of Health Sciences,US,5
+469,1978,United States Military Academy at West Point,US,5
+470,1982,University of Wisconsin Green Bay,US,5
+471,1987,Loyola University New Orleans,US,5
+472,1990,CUNY Brooklyn College,US,5
+473,1990,University of Tampa,US,5
+474,1996,Valdosta State University,US,5
+475,1999,University of Bridgeport,US,5
+476,2001,Central Connecticut State University,US,5
+477,2002,CUNY Baruch College,US,5
+478,2005,Christopher Newport University,US,5
+479,2008,Campbell University,US,5
+480,2015,Rosalind Franklin University of Medicine and Science,US,5
+481,2018,Midwestern University,US,5
+482,2023,Murray State University,US,5
+483,2024,University of Hawaii System,US,5
+484,2026,Richard Stockton College,US,5
+485,2032,Northeastern Illinois University,US,5
+486,2035,Depauw University,US,5
+487,2040,Southern University and A&M College,US,5
+488,2044,Metropolitan State University of Denver,US,5
+489,2048,Gallaudet University,US,5
+490,2050,Hampshire College,US,5
+491,2051,Clark Atlanta University,US,5
+492,2052,Canisius College,US,5
+493,2055,Ferris State University,US,5
+494,2057,College of Wooster,US,5
+495,2065,Evergreen State College,US,5
+496,2065,Mercer University,US,5
+497,2072,Rose Hulman Institute of Technology,US,5
+498,2076,Buffalo State SUNY,US,5
+499,2077,Providence College,US,5
+500,2078,Northern Michigan University,US,5
+501,2078,Roosevelt University,US,5
+502,2078,Rhode Island College,US,5
+503,2083,Bloomsburg University of Pennsylvania,US,5
+504,2086,Purdue University Fort Wayne,US,5
+505,2087,Minnesota State University Mankato,US,5
+506,2088,University of Michigan Flint,US,5
+507,2091,Kutztown University,US,5
+508,2094,Sacred Heart University,US,5
+509,2099,Biola University,US,5
+510,2099,Allegheny College,US,5
+511,2102,University of Puget Sound,US,5
+512,2104,University of Wisconsin Stout,US,5
+513,2109,Barry University,US,5
+514,2113,Wilkes University,US,5
+515,2124,Shippensburg University of Pennsylvania,US,5
+516,2129,Clarkson University,US,5
+517,2138,Kettering University,US,5
+518,2142,Samford University,US,5
+519,2146,Texas Southern University,US,5
+520,2156,Illinois Wesleyan University,US,5
+521,2157,Regis University,US,5
+522,2160,Bridgewater State University,US,5
+523,2175,Washington & Lee University,US,5
+524,2175,University of Texas Tyler,US,5
+525,2181,Stephen F Austin State University,US,5
+526,2186,Muhlenberg College,US,5
+527,2189,Tarleton State University,US,5
+528,2192,Denison University,US,5
+529,2192,Belmont University,US,5
+530,2195,Pacific Lutheran University,US,5
+531,2199,John Carroll University,US,5
+532,2199,Pittsburg State University,US,5
+533,2214,CUNY John Jay College of Criminal Justice,US,5
+534,2214,University of Portland,US,5
+535,2226,Morehouse School of Medicine,US,5
+536,2234,Prairie View A&M University,US,5
+537,2238,A T Still University,US,5
+538,2238,University of Indianapolis,US,5
+539,2242,Texas A&M University Commerce,US,5
+540,2249,University of Hartford,US,5
+541,2254,Arcadia University,US,5
+542,2257,Alfred University,US,5
+543,2259,Saint Lawrence University,US,5
+544,2269,Augsburg College,US,5
+545,2278,Gustavus Adolphus College,US,5
+546,2279,Roger Williams University,US,5
+547,2282,University of the Sciences in Philadelphia,US,5
+548,2288,Norfolk State University,US,5
+549,2288,University of Detroit Mercy,US,5
+550,2296,Indiana University South Bend,US,5
+551,2308,University of Michigan Dearborn,US,5
+552,2310,University of Wisconsin River Falls,US,5
+553,2312,Webster University,US,5
+554,2317,Indiana University System,US,5
+555,2322,Louisiana State University Shreveport,US,5
+556,2326,University of South Florida St Petersburg,US,5
+557,2328,Tuskegee University,US,5
+558,2335,Texas A&M International University,US,5
+559,2350,Texas A&M University Galveston,US,5
+560,2352,Union College Schenectady NY,US,5
+561,2369,University of Southern Indiana,US,5
+562,2377,Iona College,US,5
+563,2378,Regent University,US,5
+564,2378,University of Alaska Anchorage,US,5
+565,2382,Winthrop University,US,5
+566,2385,University of Scranton,US,5
+567,2389,Chatham University,US,5
+568,2393,(3) Harvard University Harvard Business School,US,5
+569,2396,Winona State University,US,5
+570,2399,Fayetteville State University,US,5
+571,2401,University of the District of Columbia,US,5
+572,2414,Hamline University,US,5
+573,2417,Lawrence Technological University,US,5
+574,2427,University of Wisconsin Stevens Point,US,5
+575,2440,Truman State University,US,5
+576,2446,Robert Morris University,US,5
+577,2448,Susquehanna University,US,5
+578,2451,Bellarmine University,US,5
+579,2472,University of California Hastings College of the Law,US,5
+580,2481,Southeast Missouri State University,US,5
+581,2493,Xavier University of Louisiana,US,5
+582,2501,Southern Utah University,US,5
+583,2507,Georgia College & State University,US,5
+584,2512,Louisiana State University Agricultural Center,US,5
+585,2518,Milwaukee School of Engineering,US,5
+586,2533,Merrimack College,US,5
+587,2533,University of Houston Downtown,US,5
+588,2537,University of La Verne,US,5
+589,2542,Alliant International University,US,5
+590,2552,California State University Monterey Bay,US,5
+591,2556,Virginia State University,US,5
+592,2556,Fuller Theological Seminary,US,5
+593,2564,Austin Peay State University,US,5
+594,2564,Southwestern University,US,5
+595,2573,(3) Auburn University Montgomery,US,5
+596,2593,(4) University of Phoenix,US,5
+597,2593,Eastern Connecticut State University,US,5
+598,2599,MCPHS University (Massachusetts College of Pharmacy & Health Sciences),US,5
+599,2607,Meharry Medical College,US,5
+600,2616,Ohio Wesleyan University,US,5
+601,2621,Morehead State University,US,4
+602,2621,University of Wisconsin Parkside,US,4
+603,2630,Salem State University,US,4
+604,2663,Mgh Institute of Health Professions,US,4
+605,2663,Bryant University,US,4
+606,2665,Longwood University,US,4
+607,2668,George Fox University,US,4
+608,2677,Saint Xavier University,US,4
+609,2678,California Lutheran University,US,4
+610,2680,Montana Tech of University of Montana,US,4
+611,2685,University of Redlands,US,4
+612,2688,University of Louisiana at Monroe,US,4
+613,2693,University of Alaska System,US,4
+614,2708,University of Hawaii Hilo,US,4
+615,2713,University of Houston Victoria,US,4
+616,2720,University of Central Missouri,US,4
+617,2725,Citadel Military College of South California,US,4
+618,2735,Western Oregon University,US,4
+619,2745,Ashland University,US,4
+620,2747,Brigham Young University Idaho,US,4
+621,2749,University of Tennessee Martin,US,4
+622,2751,West Texas A&M University,US,4
+623,2752,Marymount University,US,4
+624,2759,Frostburg State University,US,4
+625,2761,Philadelphia College of Osteopathic Medicine,US,4
+626,2767,Louisiana State University Health Sciences Center,US,4
+627,2767,Shenandoah University,US,4
+628,2770,State University of New York SUNY Cortland,US,4
+629,2781,Harvard-MIT Division of Health Sciences and Technology,US,4
+630,2789,Saginaw Valley State University,US,4
+631,2789,University of Mary Washington,US,4
+632,2801,Emporia State University,US,4
+633,2809,Beloit College,US,4
+634,2815,University of Illinois Springfield,US,4
+635,2822,Columbus State University,US,4
+636,2828,Indiana University Northwest,US,4
+637,2839,(4) University of Maryland University College,US,4
+638,2840,Virginia Military Institute,US,4
+639,2844,Southern Oregon University,US,4
+640,2853,Winston Salem State University,US,4
+641,2856,New College of Florida,US,4
+642,2875,King's College Wilkes-Barre,US,4
+643,2879,University of Nebraska Kearney,US,4
+644,2885,Earlham College,US,4
+645,2885,Fort Hays State University,US,4
+646,2889,Pratt Institute,US,4
+647,2897,Jacksonville State University,US,4
+648,2901,Luther College Decorah,US,4
+649,2908,Ramapo College of New Jersey,US,4
+650,2914,Albion College,US,4
+651,2918,Washburn University,US,4
+652,2919,California State University Dominguez Hills,US,4
+653,2920,Alabama State University,US,4
+654,2922,Lesley University,US,4
+655,2924,Missouri Western State University,US,4
+656,2936,Rush University,US,4
+657,2952,Toyota Technological Institute Chicago,US,4
+658,2952,Niagara University,US,4
+659,2959,University of Texas Health Center at Tyler,US,4
+660,2960,Augustana College Rock Island,US,4
+661,2962,Gannon University,US,4
+662,2971,Keene State College,US,4
+663,2976,Millersville University of Pennsylvania,US,4
+664,2977,Alabama A&M University,US,4
+665,2998,Fielding Graduate University,US,4
+666,3004,Wittenberg University,US,4
+667,3011,Mayo Clinic College of Medicine,US,4
+668,3032,CUNY College of Staten Island,US,4
+669,3041,Lincoln Memorial University,US,4
+670,3042,Slippery Rock University,US,4
+671,3047,Palo Alto University (Pacific Graduate School of Psychology),US,4
+672,3061,Governors State University,US,4
+673,3065,(1) University of California System,US,4
+674,3069,University of North Alabama,US,4
+675,3085,Sewanee The University of the South,US,4
+676,3086,Albany College of Pharmacy and Health Sciences,US,4
+677,3103,(3) University of Chicago Booth School of Business,US,4
+678,3103,Goucher College,US,4
+679,3107,Hendrix College,US,4
+680,3115,Lawrence University,US,4
+681,3125,Southern New Hampshire University,US,4
+682,3128,Augustana University Sioux Falls,US,4
+683,3134,Nicholls State University,US,4
+684,3147,Clayton State University,US,4
+685,3152,Franklin W Olin College of Engineering,US,4
+686,3152,Francis Marion University,US,4
+687,3163,Indiana University Southeast,US,4
+688,3174,Saint Michael's College,US,4
+689,3181,Angelo State University,US,4
+690,3182,Ohio Northern University,US,4
+691,3184,University of Wisconsin Platteville,US,4
+692,3190,California State University Stanislaus,US,4
+693,3193,Spelman College,US,4
+694,3215,Western Connecticut State University,US,4
+695,3221,Bowie State University,US,4
+696,3229,Juniata College,US,4
+697,3232,University of Dallas,US,4
+698,3254,Southeastern Louisiana University,US,4
+699,3267,Dakota State University,US,4
+700,3279,Dominican University of California,US,4
+701,3297,Whitman College,US,4
+702,3313,State University of New York Fredonia,US,4
+703,3333,Vermont Law School,US,4
+704,3341,CUNY New York City College of Technology,US,4
+705,3365,Arkansas Tech University,US,4
+706,3369,Park University,US,4
+707,3385,Savannah State University,US,4
+708,3390,Grand Canyon University,US,4
+709,3399,Miami Dade College,US,4
+710,3414,Linfield College,US,4
+711,3443,Cameron University,US,4
+712,3448,Fisk University,US,4
+713,3453,Harbor UCLA Medical Center Graduate Medical Education,US,4
+714,3463,College at Brockport SUNY,US,4
+715,3471,University of the Incarnate Word,US,4
+716,3517,McDaniel College,US,4
+717,3522,Edinboro University,US,4
+718,3523,University of South Carolina Upstate,US,4
+719,3525,Colorado State University Pueblo,US,4
+720,3529,Lake Forest College,US,4
+721,3537,California State University Channel Islands,US,4
+722,3539,University of Texas Permian Basin,US,4
+723,3541,Oklahoma City University,US,4
+724,3543,Saint Louis College of Pharmacy,US,4
+725,3546,Berry College,US,4
+726,3556,Centre College,US,4
+727,3562,California University of Pennsylvania,US,4
+728,3574,Benedictine University,US,4
+729,3574,Cornell College,US,4
+730,3577,CUNY York College,US,4
+731,3581,Froedtert Medical College,US,4
+732,3588,Salisbury University,US,4
+733,3597,Roanoke College,US,4
+734,3616,National Defense University,US,4
+735,3620,Whittier College,US,4
+736,3640,Mills College,US,4
+737,3642,Eastern University,US,4
+738,3648,CUNY LaGuardia Community College,US,4
+739,3650,Charles Drew University of Medicine & Science,US,4
+740,3650,University of South Carolina Aiken,US,4
+741,3662,Elizabethtown College,US,4
+742,3685,(4) National University,US,4
+743,3689,Eckerd College,US,4
+744,3701,California State University System,US,4
+745,3706,(4) Capella University,US,4
+746,3706,Texas Wesleyan University,US,4
+747,3714,Alma College,US,4
+748,3738,(3) Oklahoma State University Oklahoma City,US,4
+749,3741,California Baptist University,US,4
+750,3744,Kentucky State University,US,4
+751,3786,Wingate University,US,4
+752,3797,Southwestern Oklahoma State University,US,4
+753,3800,Brooklyn Law School,US,4
+754,3801,Clarion University of Pennsylvania,US,4
+755,3818,(3) University of Tennessee Space Institute,US,4
+756,3830,(3) College of William & Mary Virginia Institute of Marine Science,US,4
+757,3843,(3) Louisiana State University Health Sciences Center New Orleans,US,4
+758,3852,Art Institute of Chicago,US,4
+759,3852,Knox College,US,4
+760,3852,Washington College,US,4
+761,3862,Northeast Ohio Medical University NEOMED,US,4
+762,3864,Agnes Scott College,US,4
+763,3871,Drew University,US,4
+764,3879,Wabash College,US,4
+765,3894,State University of New York,US,4
+766,3896,West Virginia State University,US,4
+767,3901,(3) University of Texas Health Science Center at Houston,US,4
+768,3910,Saint Edward's University,US,4
+769,3916,Hanover College,US,4
+770,3919,University of Tennessee System,US,4
+771,3922,New York Law School,US,4
+772,3932,Langston University,US,4
+773,3937,Cooper Union for the Advancement of Science and Art,US,4
+774,3942,New Jersey City University,US,4
+775,3947,Sarah Lawrence College,US,4
+776,3950,Columbia College Chicago,US,4
+777,3952,State University of New York Empire State College,US,4
+778,3966,Hartwick College,US,4
+779,3966,Saint Mary's College of California,US,4
+780,3973,Portland Community College,US,4
+781,3981,State University of New York Geneseo,US,4
+782,3987,Lake Superior State University,US,4
+783,3995,South Carolina State University,US,4
+784,4002,University of North Georgia,US,4
+785,4004,University of Central Oklahoma,US,4
+786,4014,Western New England University,US,4
+787,4028,Saint Anselm College,US,4
+788,4034,Hollins University,US,4
+789,4037,Austin College,US,4
+790,4051,Kansas City University of Medicine and Biosciences,US,4
+791,4051,Marymount Manhattan College,US,4
+792,4057,Houston Baptist University,US,4
+793,4058,State University of New York SUNY Potsdam,US,4
+794,4063,Rhode Island School of Design,US,4
+795,4063,Saint Mary's College of Maryland,US,4
+796,4079,(3) University of Minnesota Morris,US,4
+797,4081,Pitzer College,US,4
+798,4083,Cedarville University,US,4
+799,4085,State University of New York Institute of Technology Utica/Rome SUNY Poly,US,4
+800,4085,University of Charleston,US,4
+801,4091,Minnesota State University Moorhead,US,4
+802,4095,University of North Carolina at Pembroke,US,4
+803,4097,Saint John Fisher College,US,4
+804,4105,Touro College,US,4
+805,4115,Westmont College,US,4
+806,4128,McNeese State University,US,4
+807,4132,College of Saint Benedict & Saint John's University,US,4
+808,4136,Fashion Institute of Technology SUNY,US,4
+809,4148,Saint Mary's University San Antonio Texas,US,4
+810,4151,Carthage College,US,4
+811,4153,Stonehill College,US,4
+812,4157,Daemen College,US,4
+813,4163,Utica College,US,4
+814,4163,SUNY College at Oneonta,US,4
+815,4167,Soka University of America,US,4
+816,4171,Mercy College New York,US,4
+817,4179,Molloy College,US,4
+818,4179,(4) Western Governors University,US,4
+819,4185,Austin Community College,US,4
+820,4186,Savannah College of Art and Design,US,4
+821,4186,Messiah College,US,4
+822,4195,Purchase College SUNY,US,4
+823,4200,University of Montevallo,US,4
+824,4203,Morehouse College,US,4
+825,4206,Assumption College,US,4
+826,4207,Randolph Macon College,US,4
+827,4214,Berklee College of Music,US,4
+828,4217,Plymouth State University,US,4
+829,4243,Claremont Colleges,US,4
+830,4250,Lebanon Valley College,US,4
+831,4250,Saint Mary's University of Minnesota,US,4
+832,4256,Wheeling Jesuit University,US,4
+833,4258,University of Missouri System,US,4
+834,4259,Walsh University,US,4
+835,4265,Hawaii Pacific University,US,4
+836,4270,Wagner College,US,4
+837,4278,Bethel University Minnesota,US,4
+838,4288,Eastern New Mexico University,US,4
+839,4297,Wheaton College Norton Massachusetts,US,4
+840,4297,University of South Florida Sarasota Manatee,US,4
+841,4306,University of Arkansas Pine Bluff,US,4
+842,4312,University of South Carolina Beaufort,US,4
+843,4317,Westminster College Salt Lake City,US,4
+844,4321,St Catherine University (College of Saint Catherine),US,4
+845,4327,Southern Arkansas University,US,4
+846,4332,Jacksonville University,US,4
+847,4333,State University of New York Plattsburgh,US,4
+848,4334,Georgia Gwinnett College,US,4
+849,4343,Illinois College,US,4
+850,4347,Lipscomb University,US,4
+851,4349,Dominican University River Forest IL,US,4
+852,4357,University of Maryland Eastern Shore,US,4
+853,4365,Gordon College,US,4
+854,4367,Palomar College,US,4
+855,4372,Farmingdale State College SUNY,US,4
+856,4374,Keck Graduate Institute,US,4
+857,4386,Princeton Theological Seminary,US,4
+858,4393,Elmhurst College,US,4
+859,4393,Lock Haven University of Pennsylvania,US,4
+860,4397,Antelope Valley College,US,4
+861,4398,Union University Tennessee,US,4
+862,4400,Hiram College,US,4
+863,4400,Bastyr University (Seattle Midwifery School),US,4
+864,4404,Berea College,US,4
+865,4406,Antioch University,US,4
+866,4406,Endicott College,US,4
+867,4415,Northern Virginia Community College,US,4
+868,4420,Hillsdale College,US,4
+869,4424,Nassau Community College,US,4
+870,4427,Otterbein University,US,4
+871,4431,Johnson & Wales University,US,4
+872,4431,Northeastern State University,US,4
+873,4436,Nazareth College of Rochester,US,4
+874,4436,Moravian College,US,4
+875,4439,Lindenwood University,US,4
+876,4448,Wentworth Institute of Technology,US,4
+877,4448,Edgewood College,US,4
+878,4457,California College of the Arts,US,4
+879,4457,Hult International Business School,US,4
+880,4464,University of Maine System,US,4
+881,4464,Saint Ambrose University,US,4
+882,4468,Concordia University Portland,US,4
+883,4469,University System of Georgia,US,4
+884,4470,Harding University,US,4
+885,4470,Lewis University,US,4
+886,4474,Colorado Mesa University (Mesa State College),US,4
+887,4482,Northwest Missouri State University,US,4
+888,4484,Bennington College,US,4
+889,4486,Santa Monica College,US,4
+890,4490,Worcester State University,US,4
+891,4492,(4) Ashford University,US,4
+892,4494,Houston Community College System,US,4
+893,4501,University of Lynchburg,US,4
+894,4501,University of Illinois System,US,4
+895,4511,Drury University,US,4
+896,4514,Lycoming College,US,4
+897,4518,Capital University,US,4
+898,4524,Albany State University,US,4
+899,4533,University of Southern Maine,US,4
+900,4535,US Naval War College,US,4
+901,4542,Brigham Young University Hawaii,US,4
+902,4544,Metropolitan State University,US,4
+903,4548,Norwich University,US,4
+904,4549,Birmingham Southern College,US,4
+905,4549,Bemidji State University,US,4
+906,4552,Fort Valley State University,US,4
+907,4553,Quinnipiac University,US,4
+908,4556,Montgomery College,US,4
+909,4571,Emmanuel College Boston,US,4
+910,4579,(4) Northcentral University,US,4
+911,4581,Lake Erie College,US,4
+912,4584,American Film Institute,US,4
+913,4587,University of North Carolina Asheville,US,4
+914,4589,Oregon Institute of Technology,US,4
+915,4593,Florida Southern College,US,4
+916,4599,Mercyhurst University,US,4
+917,4607,Wayne State College,US,4
+918,4612,Virginia Maryland Regional College of Veterinary Medicine,US,4
+919,4615,Concordia University Irvine,US,4
+920,4622,Rockhurst University,US,4
+921,4625,University of Wisconsin System,US,4
+922,4625,Saint Bonaventure University,US,4
+923,4631,University of Virginia College at Wise,US,4
+924,4633,Tarrant County College,US,4
+925,4637,(4) South University,US,4
+926,4641,Framingham State University,US,4
+927,4641,Sweet Briar College,US,4
+928,4644,Ivy Tech State College,US,4
+929,4644,Salve Regina University,US,4
+930,4649,Saint Norbert College,US,4
+931,4652,Art Institutes,US,4
+932,4656,Husson University,US,4
+933,4671,Hood College,US,4
+934,4680,Western State Colorado University,US,4
+935,4683,Carroll University,US,4
+936,4689,School of Visual Arts,US,4
+937,4692,New Mexico Highlands University,US,4
+938,4694,La Sierra University,US,4
+939,4697,University of Findlay,US,4
+940,4697,Mississippi College,US,4
+941,4704,Champlain College,US,4
+942,4706,Mesa Community College,US,4
+943,4718,Rasmussen College (Webster College & Aakers College),US,4
+944,4729,College of DuPage,US,4
+945,4740,Valencia College,US,4
+946,4745,University of Minnesota Twin Cities,US,4
+947,4753,Dixie State University,US,4
+948,4753,State University of New York at Old Westbury,US,4
+949,4758,Presbyterian College,US,4
+950,4758,(4) American Public University System,US,4
+951,4766,Midwestern State University Texas,US,4
+952,4766,Meredith College,US,4
+953,4769,California Western School of Law,US,4
+954,4779,Hampden Sydney College,US,4
+955,4800,Whitworth University,US,4
+956,4801,Alamo Community Colleges,US,4
+957,4806,Harrisburg University of Science & Technology,US,4
+958,4815,Bridgewater College,US,4
+959,4815,Maryville University of Saint Louis,US,4
+960,4817,Northwestern State University of Louisiana,US,4
+961,4818,Doane University,US,4
+962,4820,Central New Mexico Community College,US,4
+963,4823,Bellevue College Washington,US,4
+964,4825,Shepherd University,US,4
+965,4825,College of Saint Scholastica,US,4
+966,4830,Air Force Institute of Technology,US,4
+967,4840,Southern University New Orleans,US,4
+968,4845,Queens University of Charlotte,US,4
+969,4847,Saint Peters University,US,4
+970,4850,East Stroudsburg University,US,4
+971,4854,Roseman University of Health Sciences (University of Southern Nevada),US,4
+972,4860,Salt Lake Community College,US,4
+973,4863,Baldwin Wallace University,US,4
+974,4867,Saint Leo University,US,4
+975,4867,Catawba College,US,4
+976,4872,York College of Pennsylvania,US,4
+977,4877,National Louis University,US,4
+978,4885,Point Loma Nazarene University,US,4
+979,4888,Bellevue University,US,4
+980,4890,Nebraska Wesleyan University,US,4
+981,4894,AIMS Community College,US,4
+982,4907,Lone Star College,US,4
+983,4911,Cabrillo College,US,4
+984,4913,New England College of Optometry,US,4
+985,4924,Excelsior College,US,4
+986,4927,North Central College,US,4
+987,4933,School of the Art Institute of Chicago,US,4
+988,4933,Marietta College,US,4
+989,4940,Alverno College,US,4
+990,4946,Culinary Institute of America,US,4
+991,4951,Des Moines University,US,4
+992,4951,Florida A&M University and Florida State University FAMU FSU College of Engineering,US,4
+993,4956,Brenau University,US,4
+994,4956,Albright College,US,4
+995,4959,Rutgers The State University of New Jersey Newark,US,4
+996,4969,City Colleges of Chicago,US,4
+997,4975,Fitchburg State University,US,4
+998,4980,City College of San Francisco,US,4
+999,4983,University of Saint Thomas Houston,US,4
+1000,4987,Columbia College of Missouri,US,4
+1001,4989,John Brown University,US,4
+1002,4989,Prescott College,US,4
+1003,4989,Washington & Jefferson College,US,4
+1004,4996,Warren Wilson College,US,4
+1005,4999,Art Center College of Design,US,4
+1006,5018,(3) Loyola Law School Los Angeles,US,4
+1007,5022,Monroe Community College,US,4
+1008,5032,Seton Hill University,US,4
+1009,5035,Academy of Art University San Francisco,US,4
+1010,5041,Oakton Community College,US,4
+1011,5041,Indiana Wesleyan University,US,4
+1012,5049,Indiana University Kokomo,US,4
+1013,5051,West Virginia University Institute of Technology,US,4
+1014,5061,Pennsylvania College of Technology,US,4
+1015,5063,Lee University,US,4
+1016,5065,Olivet Nazarene University,US,4
+1017,5073,Guilford College,US,4
+1018,5073,Thomas University,US,4
+1019,5077,Butte College,US,4
+1020,5082,Marywood University,US,4
+1021,5087,Kirkwood Community College,US,4
+1022,5095,Harper College,US,4
+1023,5095,Middle Georgia State University,US,4
+1024,5100,Aquinas College Grand Rapids Michigan,US,4
+1025,5103,D’Youville College,US,4
+1026,5104,Oral Roberts University,US,4
+1027,5104,Linn Benton Community College,US,4
+1028,5108,University of Texas System,US,4
+1029,5108,Delta State University,US,4
+1030,5112,Maryville College,US,4
+1031,5116,Community College of Southern Nevada,US,4
+1032,5118,Clark College,US,4
+1033,5125,Great Basin College,US,4
+1034,5127,Lake Erie College of Osteopathic Medicine,US,4
+1035,5132,Naropa University,US,4
+1036,5132,Bucks County Community College,US,4
+1037,5136,Santa Rosa Junior College,US,4
+1038,5141,Saint Louis Community College,US,4
+1039,5143,SUNY College of Optometry,US,4
+1040,5147,Columbus State Community College,US,4
+1041,5148,Broward College,US,4
+1042,5151,Pasadena City College,US,4
+1043,5153,Carroll College Helena Montana,US,4
+1044,5153,CUNY Lehman College,US,4
+1045,5158,California Institute of Integral Studies,US,4
+1046,5162,Concordia University Saint Paul,US,4
+1047,5165,Saint John's College,US,4
+1048,5170,Howard Community College,US,4
+1049,5173,Carson Newman University,US,4
+1050,5177,Lynn University,US,4
+1051,5179,West Valley College,US,4
+1052,5179,Madison Area Technical College,US,4
+1053,5187,Seattle Central Community College,US,4
+1054,5187,Minot State University,US,4
+1055,5187,Devry University,US,4
+1056,5205,(4) Keiser University,US,4
+1057,5207,Dalton State College,US,4
+1058,5211,Millsaps College,US,4
+1059,5211,Lane Community College,US,4
+1060,5218,Juilliard School,US,4
+1061,5218,Central State University,US,4
+1062,5225,Baker College,US,4
+1063,5225,Northern State University,US,4
+1064,5225,Vincennes University,US,4
+1065,5230,Saint Mary's College Notre Dame,US,4
+1066,5232,Keuka College,US,4
+1067,5234,Sierra College,US,4
+1068,5234,Manhattanville College,US,4
+1069,5241,Chicago School of Professional Psychology,US,4
+1070,5244,Johnson County Community College,US,4
+1071,5245,Red Rocks Community College,US,4
+1072,5247,Citrus College,US,4
+1073,5250,Foothill College,US,4
+1074,5250,Bakersfield College,US,4
+1075,5255,Taylor University,US,4
+1076,5258,Long Beach City College,US,4
+1077,5260,Palm Beach Atlantic University,US,4
+1078,5262,Claflin University,US,4
+1079,5268,Skyline College,US,4
+1080,5268,Westminster College New Wilmington,US,4
+1081,5272,Goshen College,US,4
+1082,5276,Lewis & Clark State College,US,4
+1083,5278,New York Film Academy Acting & Film School,US,4
+1084,5281,Montana State University Billings,US,4
+1085,5282,Trinity International University,US,4
+1086,5284,Imperial Valley College,US,4
+1087,5288,Southern Adventist University,US,4
+1088,5295,Community College of Philadelphia,US,4
+1089,5295,Palmer College of Chiropractic,US,4
+1090,5295,Cypress College,US,4
+1091,5295,Concordia University Chicago,US,4
+1092,5300,Polk State College,US,4
+1093,5303,Cambridge College,US,4
+1094,5305,Macomb Community College,US,4
+1095,5308,Maryland Institute College of Art,US,4
+1096,5308,Flagler College,US,4
+1097,5308,Parkland College,US,4
+1098,5314,Southwest Minnesota State University,US,4
+1099,5316,Grove City College,US,4
+1100,5320,Mount St Mary's University Emmitsburg,US,4
+1101,5320,Mount St Mary's University Emmitsburg,US,4
+1102,5325,Bluffton University,US,4
+1103,5328,University of Wisconsin Superior,US,4
+1104,5332,Marian University Indianapolis,US,4
+1105,5335,University of Mary Hardin Baylor,US,4
+1106,5335,Unity College,US,4
+1107,5340,Maharishi University of Management,US,4
+1108,5345,Minnesota State Colleges and Universities,US,4
+1109,5345,Metropolitan Community College Nebraska,US,4
+1110,5345,Collin College,US,4
+1111,5349,Ventura College,US,4
+1112,5354,Glendale Community College California,US,4
+1113,5359,Alvernia University,US,4
+1114,5359,Southeastern Oklahoma State University,US,4
+1115,5359,Misericordia University,US,4
+1116,5365,Pima Community College,US,4
+1117,5365,Henderson State University,US,4
+1118,5368,Gavilan College,US,4
+1119,5368,Del Mar College,US,4
+1120,5370,John A Logan College,US,4
+1121,5370,Principia College,US,4
+1122,5370,Prince George's Community College,US,4
+1123,5374,(3) University of North Carolina School of the Arts,US,4
+1124,5374,Saddleback College,US,4
+1125,5381,Green River Community College,US,4
+1126,5383,Central Piedmont Community College,US,4
+1127,5383,Shoreline Community College,US,4
+1128,5388,Salus University (Pennsylvania College of Optometry),US,4
+1129,5400,Minneapolis College of Art & Design,US,4
+1130,5406,(4) Purdue University Global: (Kaplan University),US,4
+1131,5406,Fresno City College,US,4
+1132,5412,Highline Community College,US,4
+1133,5412,Cerritos College,US,4
+1134,5412,Rogers State University,US,4
+1135,5417,Dallas Baptist University,US,4
+1136,5417,Brookdale Community College,US,4
+1137,5427,Mercer County Community College,US,4
+1138,5431,Barton College,US,4
+1139,5435,New England College,US,4
+1140,5435,San Diego Mesa College,US,4
+1141,5446,Everett Community College,US,4
+1142,5446,Sinclair Community College,US,4
+1143,5446,Cuyahoga Community College,US,4
+1144,5450,College of Southern Idaho,US,4
+1145,5458,Ripon College,US,4
+1146,5458,North Seattle Community College,US,4
+1147,5464,Seminole State College of Florida,US,4
+1148,5467,Miracosta College,US,4
+1149,5467,Chaffey College,US,4
+1150,5467,Thomas More College,US,4
+1151,5474,Diablo Valley College,US,4
+1152,5474,Coe College,US,4
+1153,5491,Heidelberg University,US,4
+1154,5491,Wartburg College,US,4
+1155,5497,Southwestern College California,US,4
+1156,5501,King University,US,4
+1157,5501,Clackamas Community College,US,4
+1158,5504,Hebrew Union College,US,4
+1159,5504,Edmonds Community College,US,4
+1160,5504,Digipen Institute of Technology,US,4
+1161,5509,Benedictine College,US,4
+1162,5509,Western New Mexico University,US,4
+1163,5517,"Evangel University (Central Bible College, Missouri Christian Colleges)",US,4
+1164,5517,Metropolitan Community College Kansas City,US,4
+1165,5522,Penn Foster College,US,4
+1166,5522,Northwood University,US,4
+1167,5522,Owens Community College,US,4
+1168,5528,Saint Francis University,US,4
+1169,5533,Ave Maria University,US,4
+1170,5535,Northwestern Michigan College,US,4
+1171,5535,William Carey University,US,4
+1172,5543,Palm Beach State College,US,4
+1173,5549,Carlos Albizu University,US,4
+1174,5549,College of Lake County,US,4
+1175,5549,County College of Morris,US,4
+1176,5549,Dordt College,US,4
+1177,5556,Merced College,US,4
+1178,5556,Lee College,US,4
+1179,5561,Anne Arundel Community College,US,4
+1180,5561,Saint Martin's University,US,4
+1181,5561,Centenary College of Louisiana,US,4
+1182,5565,Mott Community College,US,4
+1183,5569,College of the Atlantic,US,4
+1184,5572,Delta College,US,4
+1185,5572,University of North Carolina,US,4
+1186,5576,Saint Vincent College,US,4
+1187,5576,Dickinson State University,US,4
+1188,5576,Anderson University Indiana,US,4
+1189,5576,Salem College,US,4
+1190,5580,Houghton College,US,4
+1191,5580,Saint Joseph University Connecticut,US,4
+1192,5580,Desales University,US,4
+1193,5587,Century College USA,US,4
+1194,5587,Mount San Antonio College,US,4
+1195,5587,Becker College,US,4
+1196,5594,Vanguard University of Southern California,US,4
+1197,5598,Brookhaven College,US,4
+1198,5598,Geneva College,US,4
+1199,5598,Bank Street College of Education,US,4
+1200,5602,Santa Fe College FL,US,4
+1201,5602,Santa Fe College FL,US,3
+1202,5605,(1) Santa Barbara City College,US,3
+1203,5608,Kalamazoo College,US,3
+1204,5608,Point Park University,US,3
+1205,5612,Spring Hill College,US,3
+1206,5612,Thomas College,US,3
+1207,5614,University of Washington Bothell,US,3
+1208,5616,Community College of Baltimore County,US,3
+1209,5618,Whatcom Community College,US,3
+1210,5618,Bard College at Simon's Rock,US,3
+1211,5618,Northwestern College Iowa,US,3
+1212,5625,Spring Arbor University,US,3
+1213,5629,Colby Sawyer College,US,3
+1214,5629,Shorter University,US,3
+1215,5629,National American University,US,3
+1216,5634,Orange Coast College,US,3
+1217,5634,Heritage University,US,3
+1218,5634,New School of Architecture and Design,US,3
+1219,5640,Boston Architectural College,US,3
+1220,5641,Walla Walla University,US,3
+1221,5644,McPherson College,US,3
+1222,5645,Transylvania University,US,3
+1223,5648,Jackson Community College,US,3
+1224,5648,Western Technical College,US,3
+1225,5648,Phoenix College,US,3
+1226,5648,Grossmont College,US,3
+1227,5653,Johnson C Smith University,US,3
+1228,5657,Chemeketa Community College,US,3
+1229,5658,Brandman University Online,US,3
+1230,5661,Berkeley College,US,3
+1231,5664,Dominican College,US,3
+1232,5667,Belhaven University,US,3
+1233,5672,Illinois Valley Community College,US,3
+1234,5672,Illinois College of Optometry,US,3
+1235,5678,Medaille College,US,3
+1236,5678,College of Central Florida,US,3
+1237,5678,Roane State Community College,US,3
+1238,5683,Saint Petersburg College,US,3
+1239,5683,Colorado Mountain College,US,3
+1240,5683,Mendocino College,US,3
+1241,5686,Stevenson University (Villa Julie College),US,3
+1242,5690,School for International Training,US,3
+1243,5690,Monmouth College,US,3
+1244,5698,Cuesta College,US,3
+1245,5700,Montgomery County Community College,US,3
+1246,5700,Life University,US,3
+1247,5706,Nevada State College,US,3
+1248,5712,Solano Community College,US,3
+1249,5712,State University of New York Onondaga Community College,US,3
+1250,5712,Anoka Ramsey Community College,US,3
+1251,5716,Le Moyne College,US,3
+1252,5721,Covenant College,US,3
+1253,5721,Umpqua Community College,US,3
+1254,5721,University of Arkansas Fort Smith,US,3
+1255,5721,Black Hills State University,US,3
+1256,5721,McKendree University,US,3
+1257,5721,San Jacinto College,US,3
+1258,5721,Delaware County Community College,US,3
+1259,5730,Rutgers The State University of New Jersey Camden,US,3
+1260,5730,De Anza College,US,3
+1261,5734,Graceland University,US,3
+1262,5734,Baker University,US,3
+1263,5734,Delaware Valley University,US,3
+1264,5734,Casper College,US,3
+1265,5734,Adrian College,US,3
+1266,5742,Monroe College,US,3
+1267,5742,San Bernardino Valley College,US,3
+1268,5742,Union College Lincoln NE,US,3
+1269,5748,Woodbury University,US,3
+1270,5748,Union County College,US,3
+1271,5748,Ohlone College,US,3
+1272,5754,Chaminade University of Honolulu,US,3
+1273,5754,Butler Community College,US,3
+1274,5754,Louisiana State University Alexandria,US,3
+1275,5758,Full Sail University,US,3
+1276,5758,Southwestern College Kansas,US,3
+1277,5761,Grace College and Grace Graduate School,US,3
+1278,5766,Georgetown College,US,3
+1279,5771,Chadron State College,US,3
+1280,5771,University of Arkansas Division of Agriculture,US,3
+1281,5778,National University of Natural Medicine,US,3
+1282,5778,Loras College,US,3
+1283,5778,Golden Gate University,US,3
+1284,5782,Roberts Wesleyan College,US,3
+1285,5782,Wilmington University,US,3
+1286,5787,Southern Baptist Theological Seminary,US,3
+1287,5787,Pierce College Los Angeles,US,3
+1288,5787,Lander University,US,3
+1289,5787,South Texas College,US,3
+1290,5787,Northland College,US,3
+1291,5787,Grand Rapids Community College,US,3
+1292,5796,(4) Strayer University,US,3
+1293,5796,Concord University,US,3
+1294,5796,Rock Valley College,US,3
+1295,5803,Piedmont College,US,3
+1296,5803,Porterville College,US,3
+1297,5803,Central Arizona College,US,3
+1298,5803,Wallace Community College Dothan,US,3
+1299,5809,Central Texas College,US,3
+1300,5809,El Paso Community College,US,3
+1301,5815,Otis College of Art & Design,US,3
+1302,5815,Richland College Dallas County,US,3
+1303,5815,Lincoln Institute of Land Policy,US,3
+1304,5821,Tougaloo College,US,3
+1305,5823,Paul Smith's College,US,3
+1306,5823,Colorado Technical University,US,3
+1307,5825,Lewis and Clark Community College,US,3
+1308,5837,Texas A&M University San Antonio,US,3
+1309,5842,Black Hawk College,US,3
+1310,5842,Cedar Crest College,US,3
+1311,5842,College of the Ozarks,US,3
+1312,5850,Spalding University,US,3
+1313,5850,Fort Lewis College,US,3
+1314,5850,Moorpark College,US,3
+1315,5850,Franklin College,US,3
+1316,5850,Illinois Central College,US,3
+1317,5857,East Georgia State College,US,3
+1318,5860,Franklin University,US,3
+1319,5868,Bloomfield College,US,3
+1320,5868,(4) University of the People,US,3
+1321,5868,Concordia University Wisconsin,US,3
+1322,5871,Lakeland University in Wisconsin,US,3
+1323,5874,Rogue Community College,US,3
+1324,5879,North Dakota University System,US,3
+1325,5879,South Seattle Community College,US,3
+1326,5879,Wesley College Delaware,US,3
+1327,5879,Newman University,US,3
+1328,5879,School for Field Studies,US,3
+1329,5879,Olympic College,US,3
+1330,5890,College of Saint Elizabeth,US,3
+1331,5893,Bay State College,US,3
+1332,5893,Trident Technical College,US,3
+1333,5895,Peninsula College,US,3
+1334,5907,Weatherford College,US,3
+1335,5915,Springfield College,US,3
+1336,5915,Monterey Peninsula College,US,3
+1337,5915,Caldwell University,US,3
+1338,5915,Northampton Community College,US,3
+1339,5915,Avila University,US,3
+1340,5915,Rio Salado College,US,3
+1341,5924,Stephens College,US,3
+1342,5925,(1) Coastal Alabama Community College (Jefferson Davis Community College),US,3
+1343,5925,Modesto Junior College,US,3
+1344,5929,Thiel College,US,3
+1345,5933,Fisher College,US,3
+1346,5933,Dallas Theological Seminary,US,3
+1347,5933,Arizona Western College,US,3
+1348,5937,Tulsa Community College,US,3
+1349,5939,Las Positas College,US,3
+1350,5939,Bunker Hill Community College,US,3
+1351,5939,Texas A&M University System,US,3
+1352,5939,Pensacola Christian College,US,3
+1353,5939,Alvin Community College,US,3
+1354,5945,Eastern Nazarene College,US,3
+1355,5947,West Hills Community College,US,3
+1356,5947,Erie Community College,US,3
+1357,5947,Bethel University Indiana,US,3
+1358,5947,West Los Angeles College,US,3
+1359,5947,Front Range Community College,US,3
+1360,5953,Cabrini University,US,3
+1361,5953,Pueblo Community College,US,3
+1362,5960,College of Idaho,US,3
+1363,5960,Huntingdon College,US,3
+1364,5960,Elms College,US,3
+1365,5967,Athens State University,US,3
+1366,5967,Durham Technical Community College,US,3
+1367,5967,University of the Arts in Philadelphia,US,3
+1368,5971,Belmont Abbey College,US,3
+1369,5971,Northeast Wisconsin Technical College,US,3
+1370,5971,Muskingum University,US,3
+1371,5976,Western Nevada College,US,3
+1372,5976,Mount Hood Community College,US,3
+1373,5983,Christian Brothers University,US,3
+1374,5983,Mount San Jacinto College,US,3
+1375,5983,Lasell College,US,3
+1376,5983,Oxnard College,US,3
+1377,5993,Northland Community and Technical College,US,3
+1378,5993,Bennett College,US,3
+1379,5997,Massachusetts College of Art and Design,US,3
+1380,5999,Shaw University,US,3
+1381,5999,Arapahoe Community College,US,3
+1382,5999,Hartnell College,US,3
+1383,5999,American College of Education,US,3
+1384,6004,Coconino Community College,US,3
+1385,6004,Rowan College at Burlington County,US,3
+1386,6004,Iowa Lakes Community College,US,3
+1387,6008,Frederick Community College,US,3
+1388,6010,State University of New York Delhi,US,3
+1389,6010,Alcorn State University,US,3
+1390,6016,Saint Thomas University Miami,US,3
+1391,6020,Los Angeles City College,US,3
+1392,6022,Community College of Denver,US,3
+1393,6026,Landmark College,US,3
+1394,6032,Gwinnett Technical College,US,3
+1395,6032,University of the Ozarks,US,3
+1396,6032,Pennsylvania Academy of the Fine Arts,US,3
+1397,6043,Pikes Peak Community College,US,3
+1398,6043,State University of New York Orange County Community College,US,3
+1399,6043,Shawnee State University,US,3
+1400,6050,San Francisco Art Institute,US,3
+1401,6054,Delaware Technical & Community College,US,3
+1402,6062,Brevard College,US,3
+1403,6065,Northwest University,US,3
+1404,6067,Schoolcraft College,US,3
+1405,6067,Cañada College,US,3
+1406,6067,State University of New York Suffolk County Community College,US,3
+1407,6067,Bluefield College,US,3
+1408,6073,Randolph College,US,3
+1409,6073,Louisiana College,US,3
+1410,6076,Albertus Magnus College,US,3
+1411,6076,Hillsborough Community College,US,3
+1412,6081,Oklahoma Panhandle State University,US,3
+1413,6081,Northwest Arkansas Community College,US,3
+1414,6081,Marshall B Ketchum University (Southern California College of Optometry),US,3
+1415,6081,Texas A&M University Texarkana,US,3
+1416,6093,Odessa College,US,3
+1417,6093,La Roche University,US,3
+1418,6098,University of St Augustine for Health Sciences,US,3
+1419,6098,Tacoma Community College,US,3
+1420,6098,Felician University,US,3
+1421,6104,Menlo College,US,3
+1422,6107,Florida Memorial University,US,3
+1423,6107,Alaska Pacific University,US,3
+1424,6110,Milwaukee Institute of Art and Design,US,3
+1425,6114,Crown College,US,3
+1426,6114,Gulf Coast Community College,US,3
+1427,6117,Aurora University,US,3
+1428,6117,Jewish Theological Seminary,US,3
+1429,6117,Clover Park Technical College,US,3
+1430,6117,(1) J Sargeant Reynolds Community College,US,3
+1431,6126,Newberry College,US,3
+1432,6126,Warner Pacific College,US,3
+1433,6135,Bryan College,US,3
+1434,6135,(3) University of the Pacific McGeorge School of Law,US,3
+1435,6135,Southern Nazarene University,US,3
+1436,6135,Fashion Institute of Design & Merchandising Los Angeles,US,3
+1437,6146,Immaculata University,US,3
+1438,6150,Indian River State College,US,3
+1439,6150,Post University,US,3
+1440,6158,Ursuline College,US,3
+1441,6167,University of Cincinnati Blue Ash College (Raymond Walters College),US,3
+1442,6167,York Technical College,US,3
+1443,6175,Hagerstown Community College,US,3
+1444,6177,American International College,US,3
+1445,6177,Central Oregon Community College,US,3
+1446,6182,Blue Mountain Community College,US,3
+1447,6182,Capital Community College,US,3
+1448,6182,Defiance College,US,3
+1449,6182,Mississippi Valley State University,US,3
+1450,6190,Kansas Wesleyan University,US,3
+1451,6190,Sterling College Kansas,US,3
+1452,6195,Ursinus College,US,3
+1453,6195,Eastern Oregon University,US,3
+1454,6195,William Woods University,US,3
+1455,6200,Fresno Pacific University,US,3
+1456,6200,Heartland Community College,US,3
+1457,6200,Bismarck State College,US,3
+1458,6206,Judson University Christian College,US,3
+1459,6206,Rose State College,US,3
+1460,6206,Davenport University,US,3
+1461,6218,San Juan College,US,3
+1462,6218,Elmira College,US,3
+1463,6218,Ringling College of Art & Design,US,3
+1464,6218,Bob Jones University,US,3
+1465,6227,Keystone College,US,3
+1466,6227,Foothill-De Anza Community College District,US,3
+1467,6227,Lubbock Christian University,US,3
+1468,6235,Lincoln Land Community College,US,3
+1469,6237,Sullivan University,US,3
+1470,6239,Cazenovia College,US,3
+1471,6239,Central Pennsylvania College,US,3
+1472,6239,Renton Technical College,US,3
+1473,6245,Olivet College,US,3
+1474,6245,Wake Technical Community College,US,3
+1475,6247,Hilbert College,US,3
+1476,6250,Georgian Court University,US,3
+1477,6250,Housatonic Community College,US,3
+1478,6250,Minnesota State Community and Technical College,US,3
+1479,6255,Camden County College,US,3
+1480,6260,Hope International University,US,3
+1481,6262,Clarkson College,US,3
+1482,6264,Big Bend Community College,US,3
+1483,6264,Laney College,US,3
+1484,6267,Community College of Rhode Island,US,3
+1485,6267,Eureka College,US,3
+1486,6267,Hocking College,US,3
+1487,6271,Piedmont Technical College,US,3
+1488,6271,Oglethorpe University,US,3
+1489,6271,Community College of Vermont,US,3
+1490,6276,Manchester University,US,3
+1491,6276,Peru State College,US,3
+1492,6281,Mary Baldwin University,US,3
+1493,6281,San Diego City College,US,3
+1494,6285,Coppin State University,US,3
+1495,6285,Tidewater Community College,US,3
+1496,6285,Paul Quinn College,US,3
+1497,6290,Walsh College,US,3
+1498,6290,Lourdes University,US,3
+1499,6293,Florida State College at Jacksonville,US,3
+1500,6293,Holyoke Community College,US,3
+1501,6298,Oklahoma City Community College,US,3
+1502,6298,Central Lakes College Brainerd,US,3
+1503,6298,Cleveland Institute of Art,US,3
+1504,6305,William Jewell College,US,3
+1505,6313,Lancaster Bible College and Graduate School,US,3
+1506,6317,Inver Hills Community College,US,3
+1507,6317,Chipola College,US,3
+1508,6317,Crowder College,US,3
+1509,6331,Alice Lloyd College,US,3
+1510,6331,Christendom College,US,3
+1511,6339,Hudson County Community College,US,3
+1512,6339,Marian University Wisconsin,US,3
+1513,6343,Sage Colleges,US,3
+1514,6351,William Penn University,US,3
+1515,6359,Horry Georgetown Technical College,US,3
+1516,6359,Colorado Christian University,US,3
+1517,6363,City University of Seattle,US,3
+1518,6365,Los Angeles Harbor College,US,3
+1519,6365,Mississippi University for Women,US,3
+1520,6372,Martin Luther College,US,3
+1521,6381,South Puget Sound Community College,US,3
+1522,6383,Centralia College,US,3
+1523,6383,Minneapolis Community and Technical College,US,3
+1524,6383,Bluegrass Community and Technical College,US,3
+1525,6388,Central College,US,3
+1526,6388,Highland Community College Northeast Kansas,US,3
+1527,6392,Mission College Santa Clara California,US,3
+1528,6398,Northwest Mississippi Community College,US,3
+1529,6398,New River Community College,US,3
+1530,6406,Regis College,US,3
+1531,6406,Philander Smith College,US,3
+1532,6409,University System of Maryland,US,3
+1533,6413,El Centro College,US,3
+1534,6413,Edward Waters College,US,3
+1535,6413,Mount Mercy University,US,3
+1536,6413,Dunwoody College of Technology,US,3
+1537,6413,Patrick Henry College,US,3
+1538,6420,Gardner Webb University,US,3
+1539,6420,Hannibal Lagrange University,US,3
+1540,6420,North Central University,US,3
+1541,6439,Columbus School of Law,US,3
+1542,6446,Morton College,US,3
+1543,6448,Benedict College,US,3
+1544,6451,Georgia Southwestern State University,US,3
+1545,6451,Los Angeles Trade Technical College,US,3
+1546,6451,Samuel Merritt University,US,3
+1547,6463,Sessions College for Professional Design,US,3
+1548,6463,Gadsden State Community College,US,3
+1549,6463,Central Maine Community College,US,3
+1550,6463,Holy Family College (Silver Lake College),US,3
+1551,6471,West Georgia Technical College,US,3
+1552,6480,Texarkana College,US,3
+1553,6480,Nicolet College,US,3
+1554,6487,Trinity Washington University,US,3
+1555,6487,Victoria College,US,3
+1556,6487,Cornerstone University,US,3
+1557,6493,Our Lady of the Lake University,US,3
+1558,6493,Bethany College Bethany,US,3
+1559,6497,State University of New York Morrisville State College,US,3
+1560,6497,Pacific College of Oriental Medicine,US,3
+1561,6504,Trinity Christian College,US,3
+1562,6507,Northwestern Health Sciences University,US,3
+1563,6507,Reading Area Community College,US,3
+1564,6512,Corning Community College,US,3
+1565,6516,West Virginia Wesleyan College,US,3
+1566,6524,El Camino College,US,3
+1567,6524,Oakland City University,US,3
+1568,6527,Sterling College Vermont,US,3
+1569,6532,St Clair County Community College,US,3
+1570,6536,Holy Family University,US,3
+1571,6541,Bethel University,US,3
+1572,6541,Adams State University,US,3
+1573,6545,Greenville University,US,3
+1574,6545,Ouachita Baptist University,US,3
+1575,6545,North Central State College,US,3
+1576,6545,Villa Maria College Buffalo,US,3
+1577,6550,Simpson College Indianola,US,3
+1578,6553,Bethany College Linsdborg,US,3
+1579,6559,Lyon College,US,3
+1580,6563,Highland Community College Northwest Illinois,US,3
+1581,6563,Southwestern Adventist University,US,3
+1582,6563,Vaughn College of Aeronautics and Technology,US,3
+1583,6563,Gordon-Conwell Theological Seminary,US,3
+1584,6563,Reedley College,US,3
+1585,6569,Gaston College,US,3
+1586,6569,Glenville State College,US,3
+1587,6574,College of the Canyons,US,3
+1588,6574,Luther Seminary,US,3
+1589,6574,Concordia College Moorhead,US,3
+1590,6583,State University of New York College of Technology Canton,US,3
+1591,6583,Riverside Community College,US,3
+1592,6588,Washtenaw Community College,US,3
+1593,6588,Urbana University,US,3
+1594,6593,South College Tennessee,US,3
+1595,6593,Cedar Valley College,US,3
+1596,6593,United States Merchant Marine Academy,US,3
+1597,6593,Cochise College,US,3
+1598,6600,Lakeland Community College Ohio,US,3
+1599,6600,Mineral Area College,US,3
+1600,6605,Western Dakota Technical Institute,US,3
+1601,6605,Blackburn College,US,3
+1602,6605,Lansing Community College,US,3
+1603,6616,Virginia Wesleyan University,US,3
+1604,6616,Five Towns College,US,3
+1605,6616,Voorhees College,US,3
+1606,6621,North Carolina Wesleyan College,US,3
+1607,6624,Cornish College of the Arts,US,3
+1608,6628,Southeastern University Florida,US,3
+1609,6635,State Fair Community College,US,3
+1610,6641,Greensboro College,US,3
+1611,6643,Santa Ana College,US,3
+1612,6647,Des Moines Area Community College,US,3
+1613,6655,Vernon College,US,3
+1614,6657,Cape Fear Community College,US,3
+1615,6657,Pacific Oaks College,US,3
+1616,6657,Marlboro College,US,3
+1617,6667,University of the Southwest,US,3
+1618,6667,Touro Law Center,US,3
+1619,6667,Herzing University,US,3
+1620,6667,University of Saint Francis Illinois,US,3
+1621,6674,Chestnut Hill College,US,3
+1622,6674,Feather River College,US,3
+1623,6681,Southern California Institute of Architecture,US,3
+1624,6681,Milwaukee Area Technical College,US,3
+1625,6681,Cleveland Community College,US,3
+1626,6685,New England Conservatory of Music,US,3
+1627,6685,Pacific Union College,US,3
+1628,6691,Emmanuel College Georgia,US,3
+1629,6696,Universal Technical Institute,US,3
+1630,6702,Fox Valley Technical College,US,3
+1631,6706,Manchester Community College NH,US,3
+1632,6711,Bevill State Community College,US,3
+1633,6711,Chamberlain University,US,3
+1634,6714,Elgin Community College,US,3
+1635,6714,Augusta Technical College,US,3
+1636,6721,Asheville Buncombe Technical Community College,US,3
+1637,6721,Oklahoma Christian University,US,3
+1638,6729,Grays Harbor College,US,3
+1639,6729,Lincoln University Pennsylvania,US,3
+1640,6738,Viterbo University,US,3
+1641,6738,Rivier University,US,3
+1642,6741,Ferrum College,US,3
+1643,6741,Concordia University Nebraska,US,3
+1644,6745,Denver Center for Performing Arts,US,3
+1645,6745,Manor College,US,3
+1646,6745,Thomas Edison State University,US,3
+1647,6745,Columbus Technical College,US,3
+1648,6754,Franciscan University of Steubenville,US,3
+1649,6758,East Los Angeles College,US,3
+1650,6758,Triton College,US,3
+1651,6762,Alfred State College SUNY College of Technology,US,3
+1652,6762,Pennsylvania Highlands Community College,US,3
+1653,6762,Lamar State College Port Arthur,US,3
+1654,6770,Augustana College,US,3
+1655,6770,Bergen Community College,US,3
+1656,6770,St Andrews University (Saint Andrews Presbyterian College),US,3
+1657,6770,Upper Iowa University,US,3
+1658,6778,Moody Bible Institute,US,3
+1659,6778,Community College of Allegheny County,US,3
+1660,6778,ECPI University,US,3
+1661,6778,Bacone College,US,3
+1662,6778,Hudson Valley Community College,US,3
+1663,6788,University of Rio Grande,US,3
+1664,6794,Vancouver Film School,US,3
+1665,6794,Klamath Community College,US,3
+1666,6794,Wor Wic Community College,US,3
+1667,6803,Buena Vista University,US,3
+1668,6803,Defense Language Institute Foreign Language Center,US,3
+1669,6803,Institute of World Politics,US,3
+1670,6818,Mansfield University of Pennsylvania,US,3
+1671,6818,Bethune Cookman University,US,3
+1672,6828,College of the Desert,US,3
+1673,6828,Vermilion Community College,US,3
+1674,6833,Wilson College,US,3
+1675,6838,Ottawa University,US,3
+1676,6838,North Central Michigan College,US,3
+1677,6838,Blinn College,US,3
+1678,6838,Life Pacific College,US,3
+1679,6843,Montreat College,US,3
+1680,6843,Missouri Southern State University,US,3
+1681,6843,Mountain View College Dallas,US,3
+1682,6849,Bethel College Kansas,US,3
+1683,6849,State University of New York Dutchess Community College,US,3
+1684,6849,Southern Arkansas University Tech,US,3
+1685,6855,College for Creative Studies,US,3
+1686,6858,Curtis Institute of Music,US,3
+1687,6858,California State University California Maritime Academy,US,3
+1688,6861,Vermont Technical College,US,3
+1689,6867,Turtle Mountain Community College,US,3
+1690,6867,Potomac State College West Virginia University,US,3
+1691,6867,Clovis Community College,US,3
+1692,6875,Louisburg College,US,3
+1693,6875,Bladen Community College,US,3
+1694,6880,Hardin Simmons University,US,3
+1695,6880,State University of New York Rockland Community College,US,3
+1696,6880,Laboratory Institute of Merchandising,US,3
+1697,6888,Saint Augustine's University,US,3
+1698,6895,(3) University of Florida Health Jacksonville,US,3
+1699,6896,New England Institute of Technology New England Tech,US,3
+1700,6906,SUNY Cobleskill,US,3
+1701,6906,Treasure Valley Community College,US,3
+1702,6906,Ozarks Technical Community College,US,3
+1703,6906,Henry Ford Community College,US,3
+1704,6914,Massachusetts College of Liberal Arts,US,3
+1705,6914,Maine College of Art,US,3
+1706,6922,Millikin University,US,3
+1707,6928,(1) Southwest Tennessee Community College Memphis,US,3
+1708,6928,Raritan Valley Community College,US,3
+1709,6932,State College of Florida (Manatee Community College),US,3
+1710,6932,Oregon State University Cascades,US,3
+1711,6932,College of the Redwoods,US,3
+1712,6942,Notre Dame of Maryland University,US,3
+1713,6942,University of Mary,US,3
+1714,6942,CUNY Medgar Evers College,US,3
+1715,6942,Trenholm State Technical College,US,3
+1716,6951,University of West Alabama,US,3
+1717,6951,Grambling State University,US,3
+1718,6956,Cardinal Stritch University,US,3
+1719,6959,Galen College of Nursing,US,3
+1720,6959,Texas State Technical College,US,3
+1721,6959,Southern West Virginia Community and Technical College,US,3
+1722,6959,Concordia University Texas,US,3
+1723,6970,Harrisburg Area Community College,US,3
+1724,6970,Manhattan School of Music,US,3
+1725,6979,Carl Albert State College,US,3
+1726,6979,Oregon Coast Community College,US,3
+1727,6979,(3) Indiana University East,US,3
+1728,6993,Daytona State College (Daytona Beach Community College),US,3
+1729,6993,American College,US,3
+1730,6993,University of Maine Augusta,US,3
+1731,6993,Saint Joseph's College New York,US,3
+1732,7005,Napa Valley College,US,3
+1733,7005,Waldorf University,US,3
+1734,7005,Moraine Valley Community College,US,3
+1735,7005,Delgado Community College,US,3
+1736,7009,Oklahoma Wesleyan University,US,3
+1737,7009,Trine University (Tri State University),US,3
+1738,7009,Wells College,US,3
+1739,7012,Southern College of Optometry,US,3
+1740,7012,Southwestern Baptist Theological Seminary,US,3
+1741,7012,Pfeiffer University,US,3
+1742,7012,Hazard Community and Technical College,US,3
+1743,7022,Curry College,US,3
+1744,7025,Oklahoma Baptist University,US,3
+1745,7028,Musicians Institute,US,3
+1746,7028,Sacramento City College,US,3
+1747,7028,Lincoln University of Missouri,US,3
+1748,7028,Salish Kootenai College,US,3
+1749,7028,East Central University,US,3
+1750,7036,Clarke University,US,3
+1751,7043,College of the Sequoias,US,3
+1752,7043,Westminster Theological Seminary,US,3
+1753,7043,Institute of American Indian and Alaska Native Culture,US,3
+1754,7043,Anderson University South Carolina,US,3
+1755,7049,Texas A&M University Central Texas,US,3
+1756,7054,Mount Saint Mary College,US,3
+1757,7054,Emory & Henry College,US,3
+1758,7060,Richland Community College,US,3
+1759,7064,Amarillo College,US,3
+1760,7066,Snow College,US,3
+1761,7069,Columbus College of Art & Design,US,3
+1762,7075,Nichols College,US,3
+1763,7075,Montana State University Great Falls College,US,3
+1764,7078,Mount St. Joseph University,US,3
+1765,7081,UNITEK College,US,3
+1766,7085,Malone University,US,3
+1767,7087,Fontbonne University,US,3
+1768,7087,Midlands Technical College,US,3
+1769,7087,Southeastern Baptist Theological Seminary,US,3
+1770,7097,Campbellsville University,US,3
+1771,7097,Huntington University,US,3
+1772,7105,Pellissippi State Technical Community College,US,3
+1773,7115,Springfield Technical Community College,US,3
+1774,7121,Lorain County Community College,US,3
+1775,7121,(3) Oklahoma State University Center for Health Sciences,US,3
+1776,7121,Asbury Theological Seminary,US,3
+1777,7135,State University of New York Westchester Commmunity College,US,3
+1778,7141,Carlow University,US,3
+1779,7141,Kansas City Art Institute,US,3
+1780,7141,Kentucky Mountain Bible College,US,3
+1781,7152,Southwestern Law School,US,3
+1782,7152,American Conservatory Theater,US,3
+1783,7152,Missouri Baptist University,US,3
+1784,7160,University of Dubuque,US,3
+1785,7169,College of San Mateo,US,3
+1786,7174,University of Mount Union,US,3
+1787,7174,(3) Washburn University School of Law,US,3
+1788,7174,Louisiana State University Eunice,US,3
+1789,7179,University of Maine Presque Isle,US,3
+1790,7179,University of Sioux Falls,US,3
+1791,7179,New Brunswick Theological Seminary,US,3
+1792,7187,New England School of Law Boston,US,3
+1793,7187,Northern Vermont University,US,3
+1794,7187,Truckee Meadows Community College,US,3
+1795,7200,Quincy University,US,3
+1796,7200,Eastern Florida State College (Brevard Community College),US,3
+1797,7211,Wayland Baptist University,US,3
+1798,7215,Concordia Theological Seminary Fort Wayne,US,3
+1799,7218,Texas Lutheran University,US,3
+1800,7222,University of Arkansas Monticello,US,3
+1801,7228,Chattanooga State Technical Community College,US,2
+1802,7228,Central Methodist University,US,2
+1803,7228,Joliet Junior College,US,2
+1804,7237,Sierra Nevada College,US,2
+1805,7237,Faulkner University,US,2
+1806,7243,MacCormac College,US,2
+1807,7252,Wisconsin Lutheran College,US,2
+1808,7252,Indiana Tech,US,2
+1809,7255,John F Kennedy University,US,2
+1810,7260,Helena College,US,2
+1811,7260,Carrington College (Apollo College),US,2
+1812,7265,Los Angeles Mission College,US,2
+1813,7274,Logan University,US,2
+1814,7274,Saint Francis College,US,2
+1815,7277,Asbury University,US,2
+1816,7277,Rocky Mountain College,US,2
+1817,7285,Abraham Baldwin Agricultural College,US,2
+1818,7285,South Texas College of Law,US,2
+1819,7285,Goddard College,US,2
+1820,7294,Chandler Gilbert Community College,US,2
+1821,7297,Mesabi Range Community and Technical College,US,2
+1822,7304,West Liberty University,US,2
+1823,7309,Holy Names University,US,2
+1824,7311,Albany Law School,US,2
+1825,7316,Midland College,US,2
+1826,7333,University of the Cumberlands,US,2
+1827,7344,Columbia International University,US,2
+1828,7349,Master's University,US,2
+1829,7349,Saint Joseph's College of Maine,US,2
+1830,7349,Bay Path University,US,2
+1831,7349,Tiffin University,US,2
+1832,7356,Gateway Technical College,US,2
+1833,7367,Neumann University,US,2
+1834,7374,Fairmont State University,US,2
+1835,7374,Martin University,US,2
+1836,7374,Oakwood University,US,2
+1837,7384,Midamerica Nazarene University,US,2
+1838,7387,McMurry University,US,2
+1839,7390,Thomas Nelson Community College,US,2
+1840,7390,Rosemont College,US,2
+1841,7395,Converse College,US,2
+1842,7395,(3) Mohawk Valley Community College Utica Branch,US,2
+1843,7401,Chabot College,US,2
+1844,7407,United States Sports Academy,US,2
+1845,7407,Moore College of Art & Design,US,2
+1846,7407,Manchester Community College CT,US,2
+1847,7415,Mount Vernon Nazarene University,US,2
+1848,7415,Kalamazoo Valley Community College,US,2
+1849,7415,Wenatchee Valley College,US,2
+1850,7415,Saybrook University,US,2
+1851,7424,Cranbrook Academy of Art,US,2
+1852,7431,Union Institute & University,US,2
+1853,7438,Marylhurst University,US,2
+1854,7438,Broome Community College SUNY,US,2
+1855,7454,College of Southern Maryland,US,2
+1856,7461,Peralta Colleges,US,2
+1857,7461,Allan Hancock College,US,2
+1858,7470,East Texas Baptist University,US,2
+1859,7470,Vista College TX NM,US,2
+1860,7470,Trevecca Nazarene University,US,2
+1861,7470,Chesapeake College,US,2
+1862,7470,Erikson Institute,US,2
+1863,7470,Wofford College,US,2
+1864,7482,Northwest College Wyoming,US,2
+1865,7482,Bryant & Stratton College,US,2
+1866,7487,Jefferson College,US,2
+1867,7487,Waubonsee Community College,US,2
+1868,7487,Tabor College Kansas,US,2
+1869,7493,Williamson Christian College,US,2
+1870,7495,Southwest Baptist University,US,2
+1871,7495,Los Angeles Valley College,US,2
+1872,7502,Green Mountain College,US,2
+1873,7508,Freed Hardeman University,US,2
+1874,7514,Thomas Aquinas College,US,2
+1875,7520,Graduate Theological Union,US,2
+1876,7527,Ocean County College,US,2
+1877,7531,Rainy River Community College,US,2
+1878,7531,Rockford University,US,2
+1879,7537,Union Theological Seminary,US,2
+1880,7542,Friends University,US,2
+1881,7542,University of Massachusetts System,US,2
+1882,7547,Methodist University,US,2
+1883,7547,North Idaho College,US,2
+1884,7551,Montana University System,US,2
+1885,7554,Kilgore College,US,2
+1886,7554,State University of New York Maritime College,US,2
+1887,7554,Dillard University,US,2
+1888,7562,Notre Dame de Namur University,US,2
+1889,7562,Mitchell Hamline School of Law,US,2
+1890,7568,Panola College,US,2
+1891,7568,Caldwell Community College and Technical Institute,US,2
+1892,7568,Milligan College,US,2
+1893,7577,Pima Medical Institute,US,2
+1894,7577,Pacifica Graduate Institute,US,2
+1895,7577,Massachusetts Maritime Academy,US,2
+1896,7582,Saint Charles Community College,US,2
+1897,7588,Lenoir Rhyne University,US,2
+1898,7588,Luzerne County Community College,US,2
+1899,7599,Yavapai College,US,2
+1900,7599,Cleveland Institute of Music,US,2
+1901,7599,College of Marin,US,2
+1902,7606,Pine Manor College,US,2
+1903,7606,Concordia Seminary Saint Louis,US,2
+1904,7614,Wilmington College of Ohio,US,2
+1905,7614,Castleton University,US,2
+1906,7614,Notre Dame College,US,2
+1907,7614,Finlandia University,US,2
+1908,7621,North Shore Community College,US,2
+1909,7621,Lindsey Wilson College,US,2
+1910,7621,Florida SouthWestern State College (Edison State College),US,2
+1911,7627,Genesee Community College,US,2
+1912,7636,Vance Granville Community College,US,2
+1913,7647,San Francisco Conservatory of Music,US,2
+1914,7647,Normandale Community College,US,2
+1915,7647,Rio Hondo Community College,US,2
+1916,7647,Tusculum University,US,2
+1917,7658,Los Angeles Film School,US,2
+1918,7678,Cincinnati State Technical and Community College,US,2
+1919,7682,Hill College,US,2
+1920,7692,Charleston Southern University,US,2
+1921,7692,Valley City State University,US,2
+1922,7701,Eastern Iowa Community College District,US,2
+1923,7701,Jackson State Community College,US,2
+1924,7711,University of Mobile,US,2
+1925,7711,Reinhardt University,US,2
+1926,7716,Talladega College,US,2
+1927,7725,Honolulu Community College,US,2
+1928,7725,Kendall College,US,2
+1929,7729,University of Northwestern Saint Paul (Northwestern College Minnesota),US,2
+1930,7729,University of Advancing Technology,US,2
+1931,7736,Brazosport College,US,2
+1932,7736,Hesston College,US,2
+1933,7736,Northwest Technical Institute,US,2
+1934,7736,Master's Seminary,US,2
+1935,7748,(3) Thomas M Cooley Law School,US,2
+1936,7748,State University of New York Jamestown Community College,US,2
+1937,7748,Maine Maritime Academy,US,2
+1938,7748,National University of Health Sciences,US,2
+1939,7755,Limestone College,US,2
+1940,7771,Mayville State University,US,2
+1941,7771,Tyler Junior College,US,2
+1942,7779,Averett University,US,2
+1943,7783,Dean College,US,2
+1944,7788,Stratford University,US,2
+1945,7799,Oakland Community College,US,2
+1946,7807,McHenry County College,US,2
+1947,7807,Spertus Institute of Jewish Studies,US,2
+1948,7815,Saint Thomas Aquinas College,US,2
+1949,7817,Ohio Dominican University,US,2
+1950,7826,Alamance Community College,US,2
+1951,7826,Guilford Technical Community College,US,2
+1952,7826,University of Science & Arts of Oklahoma,US,2
+1953,7826,Shasta College,US,2
+1954,7833,University of Mount Olive,US,2
+1955,7839,Lincoln Tech,US,2
+1956,7846,Lees Mcrae College,US,2
+1957,7851,Denver Seminary,US,2
+1958,7851,Montana State University Northern,US,2
+1959,7857,Hinds Community College,US,2
+1960,7857,Minnesota State University Mankato,US,2
+1961,7857,Schreiner University,US,2
+1962,7857,Columbia Basin College,US,2
+1963,7874,Southwestern Assemblies of God University,US,2
+1964,7874,Cayuga Community College,US,2
+1965,7874,Volunteer State Community College,US,2
+1966,7884,Georgia Military College,US,2
+1967,7884,ASA Institute of Business and Computer Technology,US,2
+1968,7884,Madonna University,US,2
+1969,7884,South Plains College,US,2
+1970,7891,Corban University,US,2
+1971,7891,Greenville Technical College,US,2
+1972,7896,Pensacola State College (Pensacola Junior College),US,2
+1973,7896,Central Carolina Community College,US,2
+1974,7902,Middlesex County College,US,2
+1975,7902,Lake Area Technical Institute,US,2
+1976,7902,Robert Morris University Illinois,US,2
+1977,7920,Lake Washington Institute of Technology (Technical College),US,2
+1978,7920,Adler School of Professional Psychology,US,2
+1979,7920,(3) University of Hawai`i Maui College,US,2
+1980,7928,Bethany Lutheran College,US,2
+1981,7928,College of the Siskiyous,US,2
+1982,7939,Laredo Community College,US,2
+1983,7947,Waukesha County Technical College,US,2
+1984,7954,Irvine Valley College,US,2
+1985,7954,Walla Walla Community College,US,2
+1986,7960,Waynesburg University,US,2
+1987,7960,Cuyamaca College,US,2
+1988,7960,Prairie State College,US,2
+1989,7969,Paine College,US,2
+1990,7969,Scottsdale Community College,US,2
+1991,7969,Southern California University of Health Sciences,US,2
+1992,7975,Saint Joseph's College of Indiana,US,2
+1993,7983,Thomas Jefferson School of Law,US,2
+1994,7987,New Hampshire Technical Institute,US,2
+1995,7987,Mount Mary University,US,2
+1996,7987,College of Coastal Georgia,US,2
+1997,8000,Gwynedd Mercy University,US,2
+1998,8004,Hodges University,US,2
+1999,8004,Briar Cliff University,US,2
+2000,8004,Mount Aloysius College,US,2
+2001,8013,Remington College,US,2
+2002,8013,Skagit Valley College,US,2
+2003,8013,Piedmont International University,US,2
+2004,8023,California Northstate University,US,2
+2005,8023,Virginia Union University,US,2
+2006,8037,Coker College,US,2
+2007,8043,Southern Virginia University,US,2
+2008,8050,Dakota Wesleyan University,US,2
+2009,8057,Atlantic Cape Community College,US,2
+2010,8057,Mount Wachusett Community College,US,2
+2011,8061,Santa Fe Community College NM,US,2
+2012,8066,Lagrange College,US,2
+2013,8074,Calhoun Community College,US,2
+2014,8082,Dakota County Technical College,US,2
+2015,8082,Sandhills Community College,US,2
+2016,8089,Johnston Community College,US,2
+2017,8089,Saint Paul Community and Technical College,US,2
+2018,8092,Saint Mary of the Woods College,US,2
+2019,8092,Anna Maria College,US,2
+2020,8092,Forsyth Technical Community College,US,2
+2021,8092,Southwestern Illinois College,US,2
+2022,8102,King's College New York,US,2
+2023,8102,Erskine College,US,2
+2024,8102,Texas Tech University System,US,2
+2025,8102,Floyd College,US,2
+2026,8102,Harford Community College,US,2
+2027,8112,New Orleans Baptist Theological Seminary,US,2
+2028,8124,Victor Valley College,US,2
+2029,8134,Santiago Canyon College,US,2
+2030,8137,Germanna Community College,US,2
+2031,8137,North Hennepin Community College,US,2
+2032,8137,College of Mount Saint Vincent,US,2
+2033,8143,Central Christian College,US,2
+2034,8143,Stark State College,US,2
+2035,8153,Altierus (Everest University Florida Metropolitan University),US,2
+2036,8153,Huston Tillotson University,US,2
+2037,8153,Clinton Community College,US,2
+2038,8153,Cumberland University,US,2
+2039,8162,Kellogg Community College,US,2
+2040,8162,Mid Michigan Community College,US,2
+2041,8162,Beacon College,US,2
+2042,8168,University of North Texas at Dallas,US,2
+2043,8171,Southern Maine Community College,US,2
+2044,8171,Bay de Noc Community College,US,2
+2045,8171,William Peace University,US,2
+2046,8171,Illinois Eastern Community Colleges,US,2
+2047,8181,Marygrove College,US,2
+2048,8181,Wesleyan College,US,2
+2049,8181,Le Cordon Bleu Schools North America,US,2
+2050,8189,Southern Wesleyan University,US,2
+2051,8196,Essex County College,US,2
+2052,8196,Evergreen Valley College,US,2
+2053,8208,Finger Lakes Community College,US,2
+2054,8208,Virginia International University,US,2
+2055,8213,Harris-Stowe State University,US,2
+2056,8219,Passaic County Community College,US,2
+2057,8225,University of Jamestown (Jamestown College),US,2
+2058,8229,International Technological University,US,2
+2059,8229,Galveston College,US,2
+2060,8229,(3) Oklahoma State University Institute of Technology,US,2
+2061,8229,Baltimore City Community College,US,2
+2062,8239,Howard Payne University,US,2
+2063,8239,Southwestern Community College,US,2
+2064,8239,Northcentral Technical College,US,2
+2065,8239,Wisconsin Indianhead Technical College,US,2
+2066,8239,Nashville State Community College,US,2
+2067,8239,Northeastern Oklahoma Agricultural and Mechanics College NEO A&M College,US,2
+2068,8248,Cogswell Polytechnical College,US,2
+2069,8248,Bossier Parish Community College,US,2
+2070,8258,Siena Heights University,US,2
+2071,8268,State University of New York Ulster County,US,2
+2072,8277,University of Saint Francis Fort Wayne Indiana,US,2
+2073,8277,Frontier Nursing University (School of Midwifery and Family Nursing),US,2
+2074,8277,Midway University,US,2
+2075,8291,Hastings College,US,2
+2076,8291,State University of New York Schenectady County Community College,US,2
+2077,8308,Wharton County Junior College,US,2
+2078,8308,Nyack College,US,2
+2079,8308,Flathead Valley Community College,US,2
+2080,8315,Young Harris College,US,2
+2081,8315,Southwest Wisconsin Technical College,US,2
+2082,8325,Moraine Park Technical College,US,2
+2083,8325,Tompkins Cortland Community College,US,2
+2084,8325,Goodwin College,US,2
+2085,8325,Indian Hills Community College,US,2
+2086,8340,Southeast Community College Area,US,2
+2087,8340,Rocky Mountain College of Art + Design,US,2
+2088,8340,Concordia College New York,US,2
+2089,8340,North Greenville University,US,2
+2090,8354,University of Saint Mary,US,2
+2091,8362,Spartanburg Community (Technical) College,US,2
+2092,8365,Cheyney University of Pennsylvania,US,2
+2093,8365,Community College of Aurora,US,2
+2094,8365,Kentucky Wesleyan College,US,2
+2095,8372,Northwestern Oklahoma State University,US,2
+2096,8372,Kirtland Community College,US,2
+2097,8372,Methodist College Josie Harper Campus,US,2
+2098,8378,Fortis Colleges,US,2
+2099,8378,Ohio Christian University (Circleville Bible College),US,2
+2100,8387,Craven Community College,US,2
+2101,8394,Iowa Central Community College,US,2
+2102,8394,Central Ohio Technical College,US,2
+2103,8394,Jefferson State Community College,US,2
+2104,8406,State University of New York Adirondack Community College,US,2
+2105,8406,College of Saint Mary Omaha,US,2
+2106,8406,Clark State Community College,US,2
+2107,8418,Lincoln College Illinois,US,2
+2108,8418,Education Corporation of America Colleges,US,2
+2109,8438,Fayetteville Technical Community College,US,2
+2110,8446,York College Nebraska,US,2
+2111,8454,Brescia University,US,2
+2112,8461,Oglala Lakota College,US,2
+2113,8461,Lutheran School of Theology Chicago,US,2
+2114,8461,MacMurray College of the Highlanders,US,2
+2115,8472,John Tyler Community College,US,2
+2116,8472,Schiller International University,US,2
+2117,8485,Gordon State College Wenham,US,2
+2118,8485,Warner University (Southern College),US,2
+2119,8485,Benjamin Franklin Institute of Technology,US,2
+2120,8493,Saint Paul's School,US,2
+2121,8493,Capitol Technology University,US,2
+2122,8501,Latter Day Saints Business College,US,2
+2123,8501,San José City College,US,2
+2124,8501,Johnson University (Johnson Bible College),US,2
+2125,8501,Chippewa Valley Technical College,US,2
+2126,8501,South Central College,US,2
+2127,8513,Taft College,US,2
+2128,8513,Miramar College San Diego,US,2
+2129,8520,Midwestern Baptist Theological Seminary,US,2
+2130,8520,Los Medanos Community College,US,2
+2131,8524,American Jewish University Los Angeles,US,2
+2132,8534,Union College Barbourville KY,US,2
+2133,8545,Piedmont Virginia Community College,US,2
+2134,8551,Arkansas State University Newport,US,2
+2135,8551,Hutchinson Community College,US,2
+2136,8551,Lower Columbia College,US,2
+2137,8567,Motlow State Community College,US,2
+2138,8575,Montserrat College of Art,US,2
+2139,8575,Sussex County Community College,US,2
+2140,8581,Kansas City Kansas Community College,US,2
+2141,8581,North Central Texas College,US,2
+2142,8581,Rochester College,US,2
+2143,8591,Kapi'olani Community College,US,2
+2144,8606,Lehigh Carbon Community College,US,2
+2145,8617,Wallace State Community College Hanceville,US,2
+2146,8617,Southwestern Oregon Community College,US,2
+2147,8617,Muskegon Community College,US,2
+2148,8627,Maryland University of Integrative Health,US,2
+2149,8635,William Jessup University,US,2
+2150,8635,Westminster Theological Seminary in California,US,2
+2151,8635,West Virginia University at Parkersburg,US,2
+2152,8635,Missouri Valley College of the Vikings,US,2
+2153,8647,Southeast Arkansas College,US,2
+2154,8647,Central Community College,US,2
+2155,8647,Chowan University,US,2
+2156,8647,Mitchell College,US,2
+2157,8663,Calvary University,US,2
+2158,8663,Herkimer County Community College,US,2
+2159,8676,University of Montana Western,US,2
+2160,8676,Yakima Valley Community College,US,2
+2161,8676,Kankakee Community College,US,2
+2162,8676,Multnomah University,US,2
+2163,8676,Columbia State Community College,US,2
+2164,8686,University of Northwestern Ohio,US,2
+2165,8686,San Joaquin Valley College,US,2
+2166,8709,Mississippi Gulf Coast Community College,US,2
+2167,8715,Gateway Community College,US,2
+2168,8720,New York Academy of Art,US,2
+2169,8732,Florida Coastal School of Law,US,2
+2170,8732,Iowa Western Community College,US,2
+2171,8743,Columbia College SC,US,2
+2172,8743,Lackawanna College,US,2
+2173,8743,(4) Trident (TUIU Touro) University,US,2
+2174,8743,Community College of Beaver County,US,2
+2175,8752,Monroe County Community College,US,2
+2176,8752,Carl Sandburg College,US,2
+2177,8752,Point University (Atlanta Christian College),US,2
+2178,8755,Lake Sumter State College,US,2
+2179,8755,Northeast Alabama Community College,US,2
+2180,8765,Toccoa Falls College,US,2
+2181,8765,Southern State Community College,US,2
+2182,8774,Florida Keys Community College,US,2
+2183,8774,Concordia University Ann Arbor,US,2
+2184,8782,Contra Costa College,US,2
+2185,8789,South Florida Community College,US,2
+2186,8799,Pitt Community College,US,2
+2187,8803,Navarro College,US,2
+2188,8803,Cairn University (Philadelphia Biblical University),US,2
+2189,8818,Massachusetts Bay Community College,US,2
+2190,8826,Columbia College Hollywood,US,2
+2191,8826,Terra Community College,US,2
+2192,8826,Wayne County Community College District,US,2
+2193,8832,Northwest Florida State College (Okaloosa Walton College),US,2
+2194,8841,Culver Stockton College,US,2
+2195,8848,Lake Land College Illinois,US,2
+2196,8858,(4) Florida National University,US,2
+2197,8870,Parker University (College of Chiropractic),US,2
+2198,8878,Christian Theological Seminary,US,2
+2199,8883,Quinsigamond Community College,US,2
+2200,8883,Virginia Western Community College,US,2
+2201,8890,American Musical and Dramatic Academy,US,2
+2202,8890,Spokane Community College,US,2
+2203,8898,Cascadia Community College,US,2
+2204,8898,Tri County Technical College,US,2
+2205,8906,New York Chiropractic College,US,2
+2206,8906,Lake Superior College,US,2
+2207,8906,Iowa Valley Community College District,US,2
+2208,8906,State University of New York Jefferson Community College,US,2
+2209,8919,North Iowa Area Community College,US,2
+2210,8919,Vermont College of Fine Arts,US,2
+2211,8919,Sheridan College,US,2
+2212,8931,Stanly Community College,US,2
+2213,8931,Westfield State University,US,2
+2214,8931,Southwestern Michigan College,US,2
+2215,8935,Lake Michigan College,US,2
+2216,8935,Columbia Gorge Community College,US,2
+2217,8935,Sanford Brown,US,2
+2218,8946,Catawba Valley Community College,US,2
+2219,8946,Lord Fairfax Community College,US,2
+2220,8946,Cowley College,US,2
+2221,8952,WSU Tech,US,2
+2222,8952,Temple College,US,2
+2223,8952,Lanier Technical College,US,2
+2224,8964,Cleary University,US,2
+2225,8964,University of Maine Fort Kent,US,2
+2226,8964,Indiana University/Purdue University Columbus,US,2
+2227,8964,Charter College,US,2
+2228,8975,Central Wyoming College,US,2
+2229,8975,Miami Ad School,US,2
+2230,9008,Sherman College of Chiropractic,US,2
+2231,9008,Golden West College,US,2
+2232,9008,Shelton State Community College,US,2
+2233,9008,William James College,US,2
+2234,9026,Norwalk Community College,US,2
+2235,9026,Alexandria Technical College,US,2
+2236,9026,Judson College Alabama,US,2
+2237,9033,Bristol Community College,US,2
+2238,9041,Mohave Community College,US,2
+2239,9041,Coastline Community College,US,2
+2240,9041,Adler Graduate School,US,2
+2241,9041,Mount Saint Mary's University Los Angeles,US,2
+2242,9051,Concorde Career Colleges,US,2
+2243,9051,Wilberforce University,US,2
+2244,9060,Florida College,US,2
+2245,9070,Ave Maria School of Law,US,2
+2246,9079,Quincy College,US,2
+2247,9085,Northland Pioneer College,US,2
+2248,9099,Eastern Arizona College,US,2
+2249,9105,Baton Rouge Community College,US,2
+2250,9105,New York School of Interior Design,US,2
+2251,9119,Arkansas State University Beebe,US,2
+2252,9119,Holy Cross College,US,2
+2253,9128,Southeast Technical Institute,US,2
+2254,9128,Mississippi Public Universities,US,2
+2255,9138,Lamar Institute of Technology,US,2
+2256,9150,Catholic Theological Union,US,2
+2257,9150,Hennepin Technical College,US,2
+2258,9157,Surry Community College,US,2
+2259,9167,University of Maine Machias,US,2
+2260,9179,Neosho County Community College,US,2
+2261,9179,Simpson University,US,2
+2262,9179,Ridgewater College,US,2
+2263,9179,New Hampshire Institute of Art,US,2
+2264,9198,Hebrew College,US,2
+2265,9198,New Mexico Military Institute,US,2
+2266,9198,Northeast Community College,US,2
+2267,9210,Rochester Community and Technical College,US,2
+2268,9210,Metropolitan College of New York,US,2
+2269,9210,University of the West,US,2
+2270,9222,Isothermal Community College,US,2
+2271,9227,Grayson County College,US,2
+2272,9227,Haskell Indian Nations University,US,2
+2273,9227,Crafton Hills College,US,2
+2274,9236,Boston Graduate School of Psychoanalysis,US,2
+2275,9250,Calumet College of Saint Joseph,US,2
+2276,9250,Grand View University,US,2
+2277,9260,Mitchell Community College,US,2
+2278,9264,Merritt College,US,2
+2279,9264,South Mountain Community College,US,2
+2280,9264,Diné College,US,2
+2281,9279,Cape Cod Community College,US,2
+2282,9289,Technical College of the Lowcountry,US,2
+2283,9289,Touro University,US,2
+2284,9299,Charter Oak State College,US,2
+2285,9299,University of the Potomac,US,2
+2286,9299,Pacific School of Religion,US,2
+2287,9308,Carroll Community College,US,2
+2288,9308,Webb Institute,US,2
+2289,9308,Mount Marty College,US,2
+2290,9308,Eastern Mennonite University,US,2
+2291,9319,Rowan College of South Jersey,US,2
+2292,9319,Goldey Beacom College,US,2
+2293,9337,Trinity Valley Community College,US,2
+2294,9337,Blue Ridge Community College North Carolina,US,2
+2295,9337,University of Alaska Southeast,US,2
+2296,9337,Los Angeles Southwest College,US,2
+2297,9355,Garrett College,US,2
+2298,9355,Berkshire Community College,US,2
+2299,9365,Nashua Community College,US,2
+2300,9370,Stevens Henager College,US,2
+2301,9370,Cecil College,US,2
+2302,9370,Northwest Indian College,US,2
+2303,9370,Wiley College,US,2
+2304,9370,Oregon College of Art & Craft,US,2
+2305,9379,Stillman College,US,2
+2306,9387,Allegany College of Maryland,US,2
+2307,9387,Virginia Highlands Community College,US,2
+2308,9395,Granite State College,US,2
+2309,9395,Sofia University (Institute of Transpersonal Psychology),US,2
+2310,9395,AdventHealth University,US,2
+2311,9395,Memphis College of Art,US,2
+2312,9410,North Lake College,US,2
+2313,9410,Allen College,US,2
+2314,9410,Walters State Community College,US,2
+2315,9410,Wayne Community College,US,2
+2316,9424,The Principia,US,2
+2317,9441,Savannah Technical College,US,2
+2318,9441,Blackhawk Technical College,US,2
+2319,9441,Pearl River Community College,US,2
+2320,9450,LeMoyne Owen College,US,2
+2321,9450,Rowan Cabarrus Community College,US,2
+2322,9456,Northeast Iowa Community College Calmar,US,2
+2323,9476,South Louisiana Community College,US,2
+2324,9476,University of Minnesota Rochester,US,2
+2325,9481,Cincinnati Christian University,US,2
+2326,9481,Barton Community College,US,2
+2327,9489,Athens Technical College,US,2
+2328,9508,Butler County Community College,US,2
+2329,9519,Cottey College,US,2
+2330,9519,Brown Mackie College,US,2
+2331,9526,Sauk Valley Community College,US,2
+2332,9533,Claremont School of Theology,US,2
+2333,9533,College of Health Care Professions,US,2
+2334,9533,University of Western States (Western States Chiropractic College),US,2
+2335,9541,Riverland Community College,US,2
+2336,9549,James A Rhodes State College,US,2
+2337,9549,Mid State Technical College,US,2
+2338,9549,South Georgia Technical College,US,2
+2339,9560,Saint Meinrad School of Theology,US,2
+2340,9560,Connecticut State University System,US,2
+2341,9560,Florence Darlington Technical College,US,2
+2342,9560,Laramie County Community College,US,2
+2343,9567,Davidson County Community College,US,2
+2344,9567,University of Pikeville,US,2
+2345,9567,Salem International University,US,2
+2346,9567,Miles College,US,2
+2347,9567,University of Arkansas System,US,2
+2348,9573,Mitchell Technical Institute,US,2
+2349,9573,Rend Lake College,US,2
+2350,9573,Central Georgia Technical College,US,2
+2351,9573,Faith Baptist Bible College & Theological Seminary,US,2
+2352,9592,Piedmont Community College,US,2
+2353,9603,Midland University (Lutheran College),US,2
+2354,9603,Nazarene Bible College,US,2
+2355,9603,Wyoming Technical Institute,US,2
+2356,9603,Hellenic College & Holy Cross Greek Orthodox School of Theology,US,2
+2357,9603,Art Academy of Cincinnati,US,2
+2358,9616,Phillips Community College University of Arkansas,US,2
+2359,9616,Fulton Montgomery Community College,US,2
+2360,9623,Maine Media College,US,2
+2361,9623,Danville Area Community College,US,2
+2362,9623,Zane State College,US,2
+2363,9634,Arkansas Northeastern College,US,2
+2364,9644,Broadview University (Utah Career College),US,2
+2365,9661,Saint Cloud Technical & Community College,US,2
+2366,9678,Valley Forge Military College,US,2
+2367,9678,Lake Tahoe Community College,US,2
+2368,9678,Randolph Community College,US,2
+2369,9678,Ozark Christian College,US,2
+2370,9678,Dyersburg State Community College,US,2
+2371,9692,East Mississippi Community College,US,2
+2372,9692,Manhattan Christian College,US,2
+2373,9692,Lane College,US,2
+2374,9704,Webber International University,US,2
+2375,9704,West Coast University,US,2
+2376,9713,Mayland Community College,US,2
+2377,9713,Fort Peck Community College,US,2
+2378,9713,Coastal Bend College,US,2
+2379,9721,Bluefield State College,US,2
+2380,9721,Moberly Area Community College,US,2
+2381,9733,Central Baptist College,US,2
+2382,9733,College of Saint Joseph in Vermont,US,2
+2383,9743,Advanced Technology Institute,US,2
+2384,9750,Texas College,US,2
+2385,9750,Haywood Community College,US,2
+2386,9750,East Central College,US,2
+2387,9759,Lincoln Christian University,US,2
+2388,9774,Mid Plains Community College,US,2
+2389,9774,(3) John A Burns School of Medicine,US,2
+2390,9796,Northeast State Technical Community College,US,2
+2391,9814,Livingstone College,US,2
+2392,9822,Seward County Community College,US,2
+2393,9842,Northern New Mexico Community College,US,2
+2394,9842,South Suburban College,US,2
+2395,9842,Minnesota West Community and Technical College,US,2
+2396,9842,Ohio Valley University,US,2
+2397,9851,Cleveland University Kansas City,US,2
+2398,9851,Lenoir Community College,US,2
+2399,9851,John Wood Community College,US,2
+2400,9862,Grace Christian University,US,2
+2401,9862,(3) Hawaii Community College,US,1
+2402,9862,Spartan College of Aeronautics and Technology,US,1
+2403,9871,Mars Hill University,US,1
+2404,9871,Paradise Valley Community College,US,1
+2405,9883,MIB School of Management,US,1
+2406,9883,College of Menominee Nation,US,1
+2407,9898,Davis & Elkins College,US,1
+2408,9908,Tunxis Community College,US,1
+2409,9908,Allen University,US,1
+2410,9908,Western Iowa Tech Community College,US,1
+2411,9908,Dallas Christian College,US,1
+2412,9918,Western Nebraska Community College,US,1
+2413,9922,Brewton Parker College,US,1
+2414,9922,United States Coast Guard Academy,US,1
+2415,9922,Platt College San Diego,US,1
+2416,9935,Trocaire College,US,1
+2417,9941,Berkeley City College (Vista College),US,1
+2418,9966,San Diego Christian College,US,1
+2419,9975,Presentation College,US,1
+2420,9975,Howard College,US,1
+2421,9985,Longy School of Music,US,1
+2422,9996,American Academy of Dramatic Arts,US,1
+2423,9996,Edison Community College,US,1
+2424,10002,American Academy of Art,US,1
+2425,10002,Pasco Hernando State College,US,1
+2426,10009,North Dakota State College of Science,US,1
+2427,10019,Rust College,US,1
+2428,10019,Martin Methodist College,US,1
+2429,10019,Tulsa Welding School,US,1
+2430,10032,Cleveland State Community College,US,1
+2431,10032,Atlanta Technical College,US,1
+2432,10043,Newbury College,US,1
+2433,10043,Richard Bland College of the College of William and Mary,US,1
+2434,10054,Munson Williams Proctor Arts Institute,US,1
+2435,10065,New England Culinary Institute,US,1
+2436,10065,Brooks Institute of Photography,US,1
+2437,10065,Northeast Texas Community College,US,1
+2438,10075,Blue Ridge Community College Virginia,US,1
+2439,10075,New York College of Podiatric Medicine,US,1
+2440,10099,Jarvis Christian College,US,1
+2441,10106,Saint Johns River State College,US,1
+2442,10106,Pennsylvania College of Art & Design,US,1
+2443,10106,Southern University Shreveport,US,1
+2444,10106,North Park University,US,1
+2445,10122,Fort Scott Community College,US,1
+2446,10122,Criswell College,US,1
+2447,10131,Southwest Virginia Community College,US,1
+2448,10131,Saint John's Seminary Camarillo,US,1
+2449,10140,Amberton University,US,1
+2450,10152,College of Biblical Studies Houston,US,1
+2451,10152,Emmaus Bible College,US,1
+2452,10159,Southeastern Illinois College,US,1
+2453,10159,Eastern Maine Community College,US,1
+2454,10165,Trinidad State Junior College,US,1
+2455,10165,Otero Junior College,US,1
+2456,10165,(3) Texas Southern University Thurgood Marshall School of Law,US,1
+2457,10165,College America,US,1
+2458,10190,Belmont (Technical) College,US,1
+2459,10190,Truett McConnell University,US,1
+2460,10198,South Piedmont Community College,US,1
+2461,10198,Angelina College,US,1
+2462,10198,Hobe Sound Bible College,US,1
+2463,10198,(3) University of Cincinnati Clermont College,US,1
+2464,10213,Arizona Christian University (Southwestern College Arizona),US,1
+2465,10213,Arkansas Baptist College,US,1
+2466,10213,Anoka Technical College,US,1
+2467,10222,Kaskaskia College,US,1
+2468,10239,Washington Adventist University (Columbia Union College),US,1
+2469,10239,Southeast Technical Winona Minnesota State College,US,1
+2470,10249,Northeast Mississippi Community College,US,1
+2471,10249,Lakeshore Technical College,US,1
+2472,10269,Deep Springs College,US,1
+2473,10269,Harcum College,US,1
+2474,10269,Grace University,US,1
+2475,10269,Northwest Christian University,US,1
+2476,10269,Mid America Christian University,US,1
+2477,10269,Garrett-Evangelical Theological Seminary,US,1
+2478,10283,Coastal Carolina Community College,US,1
+2479,10290,Bishop State Community College,US,1
+2480,10290,Austin Presbyterian Theological Seminary,US,1
+2481,10290,Vatterott College,US,1
+2482,10301,Central Carolina Technical College,US,1
+2483,10301,University of Hawaii West Oahu,US,1
+2484,10301,California College San Diego,US,1
+2485,10314,Eastfield College,US,1
+2486,10320,State University of New York Columbia Greene Community College,US,1
+2487,10329,University System of New Hampshire,US,1
+2488,10329,Presidio Graduate School,US,1
+2489,10343,El Camino College Compton Center,US,1
+2490,10350,University of Valley Forge,US,1
+2491,10361,United Tribes Technical College,US,1
+2492,10361,Western Wyoming Community College,US,1
+2493,10376,Aviation Institute of Maintenance,US,1
+2494,10376,West Virginia School of Osteopathic Medicine,US,1
+2495,10387,Baptist College of Florida,US,1
+2496,10387,Barclay College,US,1
+2497,10406,Kentucky Christian University,US,1
+2498,10412,Carteret Community College,US,1
+2499,10412,New Mexico Junior College,US,1
+2500,10424,Hibbing Community College,US,1
+2501,10433,Albany Technical College,US,1
+2502,10433,College of the Albemarle,US,1
+2503,10446,ILIFF School of Theology,US,1
+2504,10460,Eastern Oklahoma State College,US,1
+2505,10460,Lincoln University California,US,1
+2506,10469,California Institute of the Arts CalArts,US,1
+2507,10469,Northwestern Polytechnic University,US,1
+2508,10469,Pierpont Community and Technical College,US,1
+2509,10478,Northwestern Connecticut Community College,US,1
+2510,10486,Marion Technical College,US,1
+2511,10486,Grossmont Cuyamaca Community College,US,1
+2512,10486,Paris Junior College,US,1
+2513,10498,South Arkansas Community College,US,1
+2514,10505,Texas Chiropractic College,US,1
+2515,10505,Crossroads College,US,1
+2516,10525,Morris College,US,1
+2517,10525,American National University,US,1
+2518,10525,Mount Carmel College of Nursing,US,1
+2519,10538,Spartanburg Methodist College,US,1
+2520,10538,Appalachian College of Pharmacy,US,1
+2521,10544,Glen Oaks Community College,US,1
+2522,10551,Southern University Law Center,US,1
+2523,10551,Marine Corps University,US,1
+2524,10560,Copiah Lincoln Community College,US,1
+2525,10560,Williams Baptist University,US,1
+2526,10570,Holmes Community College,US,1
+2527,10581,Clatsop Community College,US,1
+2528,10581,Connors State College,US,1
+2529,10581,Lassen Community College,US,1
+2530,10581,Great Lakes Christian College,US,1
+2531,10581,Southern Crescent Technical College (Flint River Technical College),US,1
+2532,10591,North Arkansas College,US,1
+2533,10591,Northern Maine Community College,US,1
+2534,10598,Allen Community College,US,1
+2535,10598,Refrigeration School,US,1
+2536,10608,North Country Community College SUNY,US,1
+2537,10608,Western Oklahoma State College,US,1
+2538,10608,North Georgia Technical College,US,1
+2539,10617,Jones County Junior College,US,1
+2540,10617,Colby Community College,US,1
+2541,10630,Mercy College Ohio,US,1
+2542,10630,Naugatuck Valley Community College,US,1
+2543,10630,Thaddeus Stevens College of Technology,US,1
+2544,10642,Cloud County Community College,US,1
+2545,10650,Western State University College of Law,US,1
+2546,10655,Southwest Institute of Healing Arts,US,1
+2547,10655,Miller Motte Technical College,US,1
+2548,10655,Labette Community College,US,1
+2549,10673,Watkins College of Art Design & Film,US,1
+2550,10681,Thomas More College of Liberal Arts,US,1
+2551,10681,Pratt Community College,US,1
+2552,10681,Nash Community College,US,1
+2553,10692,Brunswick Community College,US,1
+2554,10692,Central Christian College of the Bible,US,1
+2555,10700,Southwestern Community College Iowa,US,1
+2556,10700,Atlanta Metropolitan College,US,1
+2557,10709,Everglades University,US,1
+2558,10709,Massachusetts School of Law,US,1
+2559,10716,Western Piedmont Community College,US,1
+2560,10729,Eastern Gateway Community College,US,1
+2561,10743,Bryn Athyn College,US,1
+2562,10743,Lurleen B Wallace Community College,US,1
+2563,10743,East Central Community College,US,1
+2564,10743,West Shore Community College,US,1
+2565,10753,Florida Gateway College (Lake City Community College),US,1
+2566,10760,McDowell Technical Community College,US,1
+2567,10760,Seminole State College Oklahoma,US,1
+2568,10760,Design Institute of San Diego,US,1
+2569,10760,Centenary University,US,1
+2570,10779,Mercy College of Health Sciences,US,1
+2571,10789,East West University,US,1
+2572,10789,Lamar State College Orange,US,1
+2573,10796,Aiken Technical College,US,1
+2574,10800,Taliesin Frank Lloyd Wright School of Architecture,US,1
+2575,10808,Meridian Community College,US,1
+2576,10808,"Daymar College (Paducah Technical College, Southeastern Business College)",US,1
+2577,10808,Richmond Community College,US,1
+2578,10808,Georgia Northwestern Technical College,US,1
+2579,10820,University of Saint Mary of the Lake,US,1
+2580,10824,Black River Technical College,US,1
+2581,10824,Laguna College of Art & Design,US,1
+2582,10833,Mountain Empire Community College,US,1
+2583,10833,Rappahannock Community College,US,1
+2584,10845,Edgecombe Community College,US,1
+2585,10845,Dominican School of Philosophy & Theology,US,1
+2586,10861,Lamar Community College,US,1
+2587,10861,Eastern Wyoming College,US,1
+2588,10861,Globe University Historic Business School,US,1
+2589,10861,Columbia College Sonora,US,1
+2590,10892,Aquinas College Tennessee,US,1
+2591,10892,Dodge City Community College,US,1
+2592,10892,Western Texas College,US,1
+2593,10892,Maria College of Albany,US,1
+2594,10892,Northern Oklahoma College,US,1
+2595,10906,Ranken Technical College,US,1
+2596,10909,Saint Paul School of Theology,US,1
+2597,10909,New Mexico State University Alamogordo,US,1
+2598,10909,Antioch College,US,1
+2599,10929,Appalachian Bible College,US,1
+2600,10929,Colorado Northwestern Community College,US,1
+2601,10929,Colorado Northwestern Community College,US,1
+2602,10929,West Virginia Northern Community College,US,1
+2603,10943,Washington State Community College,US,1
+2604,10943,Atlanta's John Marshall Law School,US,1
+2605,10943,Union Theological Seminary and Presbyterian School of Christian Education,US,1
+2606,10943,Navajo Technical University,US,1
+2607,10955,Coffeyville Community College and Area Technical School,US,1
+2608,10955,Massasoit Community College,US,1
+2609,10966,Northwest State Community College,US,1
+2610,10972,Blue Mountain College,US,1
+2611,10978,Itawamba Community College,US,1
+2612,10978,Wilkes Community College,US,1
+2613,10995,Fond du Lac Tribal and Community College,US,1
+2614,10995,Montcalm Community College,US,1
+2615,10995,Northwest Shoals Community College,US,1
+2616,10995,Trinity College Florida,US,1
+2617,11004,York County Community College,US,1
+2618,11004,(4) Southern California University,US,1
+2619,11004,Central Virginia Community College,US,1
+2620,11004,Southeastern Iowa Community College,US,1
+2621,11019,Mississippi Delta Community College,US,1
+2622,11019,Cisco Junior College,US,1
+2623,11019,Alpena Community College,US,1
+2624,11042,Asnuntuck Community College,US,1
+2625,11042,White Mountains Community College,US,1
+2626,11042,Holy Apostles College & Seminary,US,1
+2627,11042,Ogeechee Technical College,US,1
+2628,11054,Mesalands Community College,US,1
+2629,11054,Brookline College (International Institute of the Americas),US,1
+2630,11054,Coahoma Community College,US,1
+2631,11066,Vandercook College of Music,US,1
+2632,11066,Wiregrass Georgia Technical College (East Central Technical College),US,1
+2633,11066,College of the Mainland,US,1
+2634,11066,(4) New York Institute of Art and Design (Sheffield School of Interior Design),US,1
+2635,11066,Southside Virginia Community College,US,1
+2636,11082,Jefferson Technical College,US,1
+2637,11082,Cosumnes River College,US,1
+2638,11089,Snead State Community College,US,1
+2639,11099,State University of New York Sullivan County Community College,US,1
+2640,11099,Wright Institute,US,1
+2641,11124,Wilson Community College,US,1
+2642,11131,American River College,US,1
+2643,11139,Pardee Rand Graduate School,US,1
+2644,11139,York Technical Institute,US,1
+2645,11148,Sampson Community College,US,1
+2646,11148,Rockingham Community College,US,1
+2647,11148,Northwest Iowa Community College,US,1
+2648,11155,Kettering College (of Medical Arts),US,1
+2649,11155,College of the Ouachitas (Ouachita Technical College),US,1
+2650,11190,North Florida Community College,US,1
+2651,11190,Gratz College,US,1
+2652,11205,Georgia Piedmont Technical College (Dekalb Technical College),US,1
+2653,11205,Jones College,US,1
+2654,11224,College of Business and Technology,US,1
+2655,11224,Southeastern Technical College (Swainsboro Technical College),US,1
+2656,11234,Arkansas State University Mountain Home,US,1
+2657,11239,Halifax Community College,US,1
+2658,11241,Humphreys College,US,1
+2659,11241,Edward Via College of Osteopathic Medicine,US,1
+2660,11241,North Central Missouri College,US,1
+2661,11241,Montgomery Community College,US,1
+2662,11241,Southeastern Community College,US,1
+2663,11250,City College Florida,US,1
+2664,11255,Northeastern Junior College,US,1
+2665,11268,Mildred Elley School,US,1
+2666,11268,Beaufort County Community College,US,1
+2667,11277,Taft Law School,US,1
+2668,11277,Baptist College of Health Sciences,US,1
+2669,11277,College of Alameda,US,1
+2670,11277,Mercersburg Academy,US,1
+2671,11285,Oak Hills Christian College,US,1
+2672,11285,Clarendon College,US,1
+2673,11285,Maranatha Baptist University,US,1
+2674,11293,Santa Barbara Business College,US,1
+2675,11293,Oblate School of Theology,US,1
+2676,11312,University of Arkansas Community College Batesville,US,1
+2677,11324,College of Western Idaho,US,1
+2678,11324,University of Providence (University of Great Falls),US,1
+2679,11334,New River Community and Technical College,US,1
+2680,11334,Conway School of Landscape Design,US,1
+2681,11342,Hebrew Theological College,US,1
+2682,11342,Knowledge Systems Institute,US,1
+2683,11342,Morgan Community College,US,1
+2684,11364,Garden City Community College,US,1
+2685,11371,Welch College (Free Will Baptist Bible College),US,1
+2686,11379,Santa Fe University of Art and Design (College of Santa Fe),US,1
+2687,11389,Gogebic Community College,US,1
+2688,11396,Ancilla College,US,1
+2689,11401,Lake Forest Graduate School of Management,US,1
+2690,11401,Murray State College,US,1
+2691,11414,Oregon College of Oriental Medicine,US,1
+2692,11414,Great Bay Community College,US,1
+2693,11414,Copper Mountain College,US,1
+2694,11428,Shawnee Community College,US,1
+2695,11448,Marymount California University,US,1
+2696,11448,South Georgia State College (Waycross College),US,1
+2697,11448,(4) New England College of Business,US,1
+2698,11465,Dabney S Lancaster Community College,US,1
+2699,11465,Sinte Gleska University,US,1
+2700,11477,Northwest Technical College,US,1
+2701,11477,Spoon River College,US,1
+2702,11486,Sitting Bull College,US,1
+2703,11495,Louisiana Community & Technical College System,US,1
+2704,11495,Southwestern Christian University,US,1
+2705,11495,Washburn Institute of Technology,US,1
+2706,11501,Davis College New York,US,1
+2707,11501,Woodland Community College,US,1
+2708,11501,Fletcher Technical Community College,US,1
+2709,11514,Luna Community College,US,1
+2710,11521,Westminster College,US,1
+2711,11527,J F Drake State Technical College,US,1
+2712,11535,Robeson Community College,US,1
+2713,11535,Orangeburg Calhoun Technical College,US,1
+2714,11543,Southern University System,US,1
+2715,11554,Southeast Kentucky Community & Technical College,US,1
+2716,11554,Patten University,US,1
+2717,11562,Church Divinity School of the Pacific,US,1
+2718,11571,Owensboro Community and Technical College,US,1
+2719,11571,Austin Graduate School of Theology,US,1
+2720,11571,(4) California Coast University,US,1
+2721,11591,Institute of Business and Medical Careers,US,1
+2722,11591,Southwestern College Santa Fe,US,1
+2723,11591,Dakota College (Minot State University) Bottineau,US,1
+2724,11611,Goldfarb School of Nursing at Barnes Jewish College,US,1
+2725,11620,Kishwaukee College,US,1
+2726,11620,Kuyper College,US,1
+2727,11631,Marion Military Institute,US,1
+2728,11631,University of Houston System,US,1
+2729,11648,Utah State University Eastern,US,1
+2730,11648,Ozarka College,US,1
+2731,11658,Spokane Falls Community College,US,1
+2732,11668,Clear Creek Baptist Bible College,US,1
+2733,11668,(3) University of Minnesota Crookston,US,1
+2734,11678,Colorado Heights University (Teikyo Loretto Heights),US,1
+2735,11678,Blue Ridge Community & Technical College,US,1
+2736,11695,West Kentucky Community & Technical College,US,1
+2737,11695,Redlands Community College,US,1
+2738,11695,Enterprise State Community College,US,1
+2739,11695,Lakeview College of Nursing,US,1
+2740,11711,Methodist Theological School Ohio,US,1
+2741,11718,Ranger College,US,1
+2742,11729,North American University,US,1
+2743,11729,Community Care College,US,1
+2744,11748,Amridge University (Southern Christian University),US,1
+2745,11748,Heritage Christian University,US,1
+2746,11748,Centura College (Tidewater Tech),US,1
+2747,11765,Unification Theological Seminary,US,1
+2748,11765,New York College of Health Professions,US,1
+2749,11765,Southwestern Indian Polytechnic Institute,US,1
+2750,11774,Nebraska Christian College,US,1
+2751,11774,Williston State College,US,1
+2752,11774,(3) Henley-Putnam School of Strategic Security National American University,US,1
+2753,11774,College of Westchester,US,1
+2754,11806,Meadville Lombard Theological School,US,1
+2755,11806,Tri County Community College,US,1
+2756,11806,Platt College Huntington Beach,US,1
+2757,11816,Warren County Community College,US,1
+2758,11816,Paul D Camp Community College,US,1
+2759,11816,Yuba College,US,1
+2760,11816,Miles Community College,US,1
+2761,11816,Independence Community College,US,1
+2762,11830,Shimer College,US,1
+2763,11830,Florida Technical College,US,1
+2764,11849,(3) Ellis School of Nursing,US,1
+2765,11849,Emily Griffith Technical College,US,1
+2766,11863,United States Air Force Academy,US,1
+2767,11874,Franciscan University (Our Lady of the Lake College),US,1
+2768,11878,God's Bible School and College,US,1
+2769,11878,Donnelly College,US,1
+2770,11878,Salem Community College,US,1
+2771,11878,University of Hawai‘i School of Ocean and Earth Science & Technology,US,1
+2772,11897,Southern Union State Community College,US,1
+2773,11913,Itasca Community College,US,1
+2774,11913,Atlantic College,US,1
+2775,11913,Dell'Arte International School of Physical Theatre,US,1
+2776,11913,Cossatot Community College University of Arkansas,US,1
+2777,11913,Wallace Community College Selma,US,1
+2778,11927,SAA College (School of Advertising Art Inc),US,1
+2779,11944,Cincinnati College of Mortuary Science,US,1
+2780,11944,Northwestern College Chicago,US,1
+2781,11944,(1) Wisconsin Technical College System,US,1
+2782,11980,Lake Region State College,US,1
+2783,11988,University of Arkansas Community College Hope,US,1
+2784,11999,Chattahoochee Valley Community College,US,1
+2785,12016,Western International University,US,1
+2786,12035,Cox College,US,1
+2787,12035,Aquinas Institute of Theology,US,1
+2788,12041,Nunez Community College,US,1
+2789,12050,Pittsburgh Technical College (Pittsburgh Technical Institute),US,1
+2790,12068,Morris Brown College,US,1
+2791,12073,Sowela Technical Community College,US,1
+2792,12079,University of Arkansas Community College Morrilton,US,1
+2793,12079,Mountwest Community and Technical College,US,1
+2794,12089,Alaska Bible College,US,1
+2795,12102,Appalachian School of Law,US,1
+2796,12102,Frank Phillips College,US,1
+2797,12102,San Joaquin College of Law,US,1
+2798,12114,Pittsburgh Institute of Aeronautics,US,1
+2799,12120,Palo Verde College,US,1
+2800,12130,Andrew College,US,1
+2801,12130,Athenaeum of Ohio,US,1
+2802,12145,Saint Mary's Seminary & University,US,1
+2803,12155,(3) University of Arkansas Pulaski Technical College,US,1
+2804,12162,Central Alabama Community College,US,1
+2805,12184,Forrest (Junior) College,US,1
+2806,12184,Resurrection University (West Suburban College of Nursing),US,1
+2807,12192,Gateway Community and Technical College,US,1
+2808,12192,Interactive College of Technology,US,1
+2809,12192,Delaware College of Art and Design,US,1
+2810,12203,Johnson College,US,1
+2811,12210,Episcopal Theological Seminary of the Southwest,US,1
+2812,12210,Southwestern Christian College,US,1
+2813,12251,National Park College,US,1
+2814,12264,Midstate College,US,1
+2815,12275,Globe University Minnesota School of Business,US,1
+2816,12292,Jamestown Business College,US,1
+2817,12292,Bainbridge College,US,1
+2818,12292,Pontifical College Josephinum,US,1
+2819,12292,Denmark Technical College,US,1
+2820,12292,Ohio Technical College,US,1
+2821,12301,State Technical College of Missouri (Linn State Technical College),US,1
+2822,12301,University of Antelope Valley,US,1
+2823,12314,Bellin College,US,1
+2824,12321,Labouré College,US,1
+2825,12329,Lakes Region Community College,US,1
+2826,12329,Roanoke Chowan Community College,US,1
+2827,12345,North Central Kansas Technical College,US,1
+2828,12345,Louisiana Delta Community College,US,1
+2829,12345,Divine Word College,US,1
+2830,12357,National Hispanic University,US,1
+2831,12389,Clarks Summit University,US,1
+2832,12389,Mount Sierra College,US,1
+2833,12410,Pennsylvania Institute of Technology,US,1
+2834,12417,Gutenberg College,US,1
+2835,12424,Hiwassee College,US,1
+2836,12441,Somerset Community College,US,1
+2837,12441,Dawson Community College,US,1
+2838,12471,Oconee Fall Line Technical College (Sandersville + Heart of Georgia),US,1
+2839,12481,Iowa Wesleyan University,US,1
+2840,12500,Research College of Nursing,US,1
+2841,12511,Trinity Baptist College,US,1
+2842,12525,Loyola Academy Illinois,US,1
+2843,12525,John Paul the Great Catholic University (New Catholic University),US,1
+2844,12572,Boricua College,US,1
+2845,12587,River Valley Community College,US,1
+2846,12595,Texas Southmost College,US,1
+2847,12595,Empire College School of Business,US,1
+2848,12621,Mid-Atlantic Christian University (Roanoke Bible College),US,1
+2849,12631,Marian College,US,1
+2850,12637,Colgate Rochester Crozer Divinity School,US,1
+2851,12637,Elizabethtown Community & Technical College,US,1
+2852,12637,BridgeValley Community and Technical College,US,1
+2853,12647,Martin Community College,US,1
+2854,12666,Trinity Bible College,US,1
+2855,12666,Arizona College of Allied Health,US,1
+2856,12676,Plaza College,US,1
+2857,12682,Mid Continent University,US,1
+2858,12692,East Arkansas Community College,US,1
+2859,12692,Rocky Mountain University of Health Professions,US,1
+2860,12699,Kaua'i Community College,US,1
+2861,12708,Institute for Clinical Social Work,US,1
+2862,12708,MTI College of Business and Technology,US,1
+2863,12725,Flint Hills Technical College,US,1
+2864,12731,Blessing Rieman College of Nursing,US,1
+2865,12767,College of Eastern Idaho,US,1
+2866,12767,The Seattle School (Mars Hill Graduate School),US,1
+2867,12783,Coleman University,US,1
+2868,12783,Pennsylvania College of Health Sciences (Lancaster General College of Nursing & Health Science),US,1
+2869,12803,New Hope Christian College (Eugene Bible College),US,1
+2870,12803,Gateway Seminary,US,1
+2871,12812,Jacksonville College,US,1
+2872,12823,Nebraska Indian Community College,US,1
+2873,12834,Lac Courte Oreilles Ojibwa Community College,US,1
+2874,12841,Pinnacle Career Institute,US,1
+2875,12841,Maysville Community & Technical College,US,1
+2876,12841,Pamlico Community College,US,1
+2877,12867,James Sprunt Community College,US,1
+2878,12867,Beulah Heights University,US,1
+2879,12867,Chatfield College,US,1
+2880,12879,Ashland Community & Technical College,US,1
+2881,12879,Gerstner Sloan-Kettering Graduate School of Biomedical Sciences,US,1
+2882,12891,Costal Pines Technical College (Altamaha + Okefenokee),US,1
+2883,12905,WON Institute of Graduate Studies,US,1
+2884,12905,NOSSI College of Art,US,1
+2885,12915,Baptist Bible College Springfield Missouri,US,1
+2886,12915,(1) Southwest Mississippi Community College,US,1
+2887,12915,Michigan School of Professional Psychology,US,1
+2888,12926,River Parishes Community College,US,1
+2889,12948,Gage Academy of Art (Seattle Academy of Fine Art),US,1
+2890,12957,Northwest Nazarene University,US,1
+2891,12957,Northshore Technical Community College (Louisiana Technical College Sullivan),US,1
+2892,12964,Bay Mills Community College,US,1
+2893,12964,Eastern Shore Community College,US,1
+2894,12975,South Florida Bible College & Theological Seminary,US,1
+2895,12982,South Hills School of Business and Technology,US,1
+2896,13000,Dominican House of Studies,US,1
+2897,13000,Boise Bible College,US,1
+2898,13017,Franciscan School of Theology,US,1
+2899,13017,Hopkinsville Community College,US,1
+2900,13038,Chief Dull Knife College,US,1
+2901,13062,Little Big Horn College,US,1
+2902,13062,American Indian College of the Assemblies of God,US,1
+2903,13062,William Carey International University,US,1
+2904,13091,Memphis Theological Seminary,US,1
+2905,13102,Pickens Technical College,US,1
+2906,13102,Southern Regional Technical College,US,1
+2907,13126,Leech Lake Tribal College,US,1
+2908,13138,Westmoreland County Community College,US,1
+2909,13138,Pacific States University,US,1
+2910,13138,Swedish Institute College of Health Sciences,US,1
+2911,13138,National Intelligence University (National Defense Intelligence College),US,1
+2912,13149,Little Priest Tribal College,US,1
+2913,13163,Southern Technical College (Southwest Florida College),US,1
+2914,13182,Center for Advanced Legal Studies,US,1
+2915,13207,Beckfield College,US,1
+2916,13223,Bates Technical College,US,1
+2917,13246,Pioneer Pacific College,US,1
+2918,13259,Estrella Mountain Community College,US,1
+2919,13268,McCann School of Business and Technology,US,1
+2920,13277,ITI Technical College,US,1
+2921,13279,University of Alabama System,US,1
+2922,13279,Lincoln College of New England (Clemens/Briarwood College),US,1
+2923,13308,Big Sandy Community and Technical College,US,1
+2924,13308,Atlanta Institute of Music and Media,US,1
+2925,13318,Ohio Business College,US,1
+2926,13356,Notre Dame Seminary Graduate School of Theology,US,1
+2927,13381,Midwest Institute for Medical Assistants,US,1
+2928,13411,Ecclesia College,US,1
+2929,13411,Berks Technical Institute Pennsylvania Career School,US,1
+2930,13438,Methodist College,US,1
+2931,13447,Shasta Bible College & Graduate School,US,1
+2932,13476,(3) University of Hawai‘i College of Tropical Agriculture and Human Resources,US,1
+2933,13486,Henderson Community College,US,1
+2934,13493,Northern Essex Community College,US,1
+2935,13493,Baptist University of the Americas,US,1
+2936,13493,Middlesex Community College,US,1
+2937,13504,Mid America Baptist Theological Seminary,US,1
+2938,13504,Ilisagvik College,US,1
+2939,13515,Acting School KD Studio,US,1
+2940,13515,Pine Technical & Community College,US,1
+2941,13519,Triangle Tech,US,1
+2942,13547,Academy of Vocal Arts,US,1
+2943,13611,American Baptist College,US,1
+2944,13636,Atlantic Union College,US,1
+2945,13636,San Joaquin Delta College,US,1
+2946,13649,Magdalen College,US,1
+2947,13661,Blackfeet Community College,US,1
+2948,13692,The King's University,US,1
+2949,13713,Beal College,US,1
+2950,13738,Briarcliffe College,US,1
+2951,13749,University of Holy Cross,US,1
+2952,13763,IntelliTec College,US,1
+2953,13763,Dallas Institute of Funeral Service,US,1
+2954,13778,Tennessee Wesleyan University,US,1
+2955,13803,Rosedale Technical Institute,US,1
+2956,13833,Valley College of Technology,US,1
+2957,13833,(4) Westcliff University,US,1
+2958,13833,Hallmark University,US,1
+2959,13844,Williamsburg Technical College,US,1
+2960,13874,Roxbury Community College,US,1
+2961,13886,Spencerian College,US,1
+2962,13892,Interior Designers Institute,US,1
+2963,13892,Madisonville Community College,US,1
+2964,13910,Pillar College (Somerset Christian College),US,1
+2965,13942,Stautzenberger College,US,1
+2966,13972,Virginia University of Lynchburg,US,1
+2967,13996,O'More College of Design,US,1
+2968,13996,Boston Baptist College,US,1
+2969,13996,Phillips University,US,1
+2970,14006,Eagle Gate College,US,1
+2971,14006,Davis Technical College in Utah (Davis Applied Technology College),US,1
+2972,14020,Manhattan Area Technical College,US,1
+2973,14020,West Virginia Junior College,US,1
+2974,14020,Saint Luke's College of Health Sciences,US,1
+2975,14033,Arkansas State University Mid South,US,1
+2976,14044,Northwest Kansas Technical College,US,1
+2977,14068,Antonelli College,US,1
+2978,14078,Greenfield Community College,US,1
+2979,14078,Cankdeska Cikana Community College,US,1
+2980,14091,University of West Los Angeles,US,1
+2981,14110,Tallahassee Community College,US,1
+2982,14125,(4) Luther Rice University,US,1
+2983,14141,Elizabeth City State University,US,1
+2984,14153,(4) Florida Career College,US,1
+2985,14174,Laurel Business Institute & Laurel Technical Institute,US,1
+2986,14182,Southeastern Baptist College,US,1
+2987,14199,Christ the King Seminary,US,1
+2988,14199,Salina Area Technical College,US,1
+2989,14211,Stone Child College,US,1
+2990,14232,College of Saint Rose,US,1
+2991,14248,Bel Rea Institute of Animal Technology,US,1
+2992,14263,Ogden Weber Applied Technology College,US,1
+2993,14282,California Institute for Human Science,US,1
+2994,14288,Pennco Tech,US,1
+2995,14311,Matanuska Susitna College Mat Su,US,1
+2996,14324,Middle Tennessee School of Anesthesia,US,1
+2997,14347,Baptist School of Health Profession,US,1
+2998,14365,Bethesda University,US,1
+2999,14371,Westminster College Fulton,US,1
+3000,14402,Wade College,US,1
