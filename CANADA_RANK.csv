@@ -1,0 +1,368 @@
+ranking,World Rank,University,Rank
+1,18,University of Toronto,5
+2,29,University of British Columbia,5
+3,55,McGill University,5
+4,69,University of Alberta,5
+5,90,University of Waterloo,5
+6,102,University of Calgary,5
+7,137,Simon Fraser University,5
+8,142,McMaster University,5
+9,165,Université de Montréal,5
+10,169,Western University (University of Western Ontario),5
+11,189,Queen's University Kingston,5
+12,197,Université d'Ottawa / University of Ottawa,5
+13,200,University of Victoria British Columbia,5
+14,215,York University,5
+15,233,Dalhousie University,5
+16,256,Université Laval,5
+17,265,University of Manitoba,5
+18,287,University of Saskatchewan,5
+19,312,University of Guelph,5
+20,335,Carleton University,5
+21,370,Concordia University Montréal,5
+22,440,Memorial University of Newfoundland,5
+23,449,Université du Québec Montréal,5
+24,469,Ryerson University,5
+25,547,Université de Sherbrooke,5
+26,627,University of Windsor,5
+27,638,University of New Brunswick,5
+28,716,École Polytechnique de Montréal,5
+29,748,University of Regina,5
+30,771,Brock University,5
+31,858,Wilfrid Laurier University,5
+32,981,Lakehead University,5
+33,1034,University of Lethbridge,5
+34,1055,Université INRS Institut National de la Recherche Scientifique,5
+35,1135,École de Technologie Supérieure,5
+36,1136,HEC Montréal École de Gestion,5
+37,1146,University of Winnipeg,5
+38,1158,Trent University,5
+39,1191,Université du Québec,5
+40,1307,Université du Québec Chicoutimi,5
+41,1354,Athabasca University,5
+42,1385,(1) Université Laurentienne / Laurentian University,5
+43,1389,Saint Mary's University,5
+44,1416,Université du Québec Trois-Rivieres,5
+45,1435,Saint Francis Xavier University,5
+46,1452,University of Prince Edward Island,5
+47,1487,Acadia University,5
+48,1506,University of Northern British Columbia,5
+49,1751,Université de Moncton,5
+50,1754,Mount Allison University,5
+51,1808,Thompson Rivers University,5
+52,2032,Université du Québec Rimouski,5
+53,2036,Université du Québec Outaouais,5
+54,2104,Mount Royal University,5
+55,2281,Nipissing University,5
+56,2529,Bishop's University,5
+57,2602,Brandon University,5
+58,2630,Mount Saint Vincent University,5
+59,2756,Cape Breton University,5
+60,3052,Royal Military College of Canada,5
+61,3082,Northern Ontario School of Medicine (Laurentian University Lakehead University),5
+62,3219,Trinity Western University,5
+63,3549,Université du Québec Abitibi-Temiscamingue,5
+64,3599,British Columbia Institute of Technology,5
+65,4097,Canadian Memorial Chiropractic College,5
+66,4139,Vancouver Island University (Malaspina),5
+67,4223,Royal Roads University,5
+68,4288,MacEwan University (Grant MacEwan College),5
+69,4345,Seneca College,5
+70,4470,University of the Fraser Valley,5
+71,4481,Humber College,5
+72,4492,OCAD University (Ontario College of Art & Design),5
+73,4531,Saint Thomas University,5
+74,4619,Sheridan College Institute of Technology and Advanced Learning,5
+75,4670,Kwantlen Polytechnic University (Kwantlen University College),4
+76,4784,Algonquin College,4
+77,4890,Centennial College Toronto,4
+78,4951,George Brown College,4
+79,5022,Okanagan College,4
+80,5077,Université Saint Paul,4
+81,5179,Tele-Université TÉLUQ,4
+82,5184,Conestoga College,4
+83,5318,Nothern Alberta Institute of Technology,4
+84,5379,Langara College,4
+85,5454,Douglas College,4
+86,5488,Capilano University,4
+87,5648,Concordia University of Edmonton,4
+88,5693,Algoma University,4
+89,6150,Bow Valley College,4
+90,6150,Mohawk College,4
+91,6206,École Nationale d'Administration Publique,4
+92,6293,Southern Alberta Institute of Technology,4
+93,6409,Fanshawe College,4
+94,6413,Niagara College,4
+95,6527,Vancouver Community College,4
+96,6624,Georgian College,4
+97,6647,Quest University,4
+98,6696,Redeemer University,4
+99,6758,Vanier College,4
+100,6833,Durham College,4
+101,6880,Camosun College,4
+102,6979,Cégep du Vieux Montréal,4
+103,7012,Cégep de Rimouski,4
+104,7135,Dawson College Westmount Montreal,4
+105,7160,Marianopolis College,4
+106,7174,Red River College,4
+107,7285,Red Deer College,4
+108,7323,Fleming College,4
+109,7356,Saskatchewan Polytechnic,4
+110,7495,Yukon College,4
+111,7554,Nova Scotia Community College,4
+112,7687,(1) Selkirk College,4
+113,7720,Saint Clair College,4
+114,7826,Lethbridge College,4
+115,7867,Regent College in Vancouver,4
+116,7969,Saint Lawrence College Brockville,4
+117,8004,NSCAD University (Nova Scotia College of Art & Design),4
+118,8013,Tyndale University College & Seminary,4
+119,8074,College of the Rockies,4
+120,8112,College of New Caledonia,4
+121,8124,Cambrian College of Applied Arts and Technology,4
+122,8124,North Island College,4
+123,8225,Grande Prairie Regional College,4
+124,8299,Justice Institute of British Columbia,4
+125,8365,College of the North Atlantic,4
+126,8394,Canadian Mennonite University,4
+127,8472,Ontario Tech University,4
+128,8520,Lambton College,4
+129,8591,John Abbott College,4
+130,8617,Olds College,4
+131,8663,Medicine Hat College,4
+132,8732,Canadian College of Naturopathic Medicine,4
+133,8789,Confederation College,4
+134,8858,Northern Lights College,4
+135,8870,Université de Saint-Boniface (College Universitaire de Saint Boniface),4
+136,8898,NorQuest College,4
+137,8906,Cégep de Sherbrooke,4
+138,8964,King's University,4
+139,8975,Loyalist College,4
+140,9085,University of King's College,4
+141,9085,Cégep de Sainte Foy,4
+142,9099,Institut de tourisme et d'hôtellerie du Québec,4
+143,9210,Northern College of Applied Arts and Technology,4
+144,9279,Collège de Maisonneuve,4
+145,9481,La Cité Collégiale,4
+146,9560,Holland College,4
+147,9581,École Nationale de théâtre / National Theatre School of Canada,4
+148,9678,Sault College of Applied Arts & Technology,4
+149,9743,Keyano College,3
+150,9743,Cégep de Trois Rivières,3
+151,9766,Lakeland College Canada,3
+152,9806,Université Sainte Anne,3
+153,9877,Assiniboine Community College,3
+154,9877,Alberta University of the Arts,3
+155,9898,Collège Boréal,3
+156,9922,Cégep Édouard Montpetit,3
+157,9966,Michener Institute for Applied Health Sciences,3
+158,9985,New Brunswick Community College,3
+159,10002,Ambrose University (Alliance & Nazarene),3
+160,10032,Canadore College of Applied Arts and Technology,3
+161,10140,Collège Ahuntsic,3
+162,10198,Collège Montmorency,3
+163,10228,Collège Lasalle,3
+164,10259,Collège Lionel Groulx,3
+165,10343,Victoria University in the University of Toronto,3
+166,10598,Saint Jerome's University,3
+167,10692,Cégep Marie Victorin,3
+168,10709,CDI College,3
+169,10760,Columbia College,3
+170,10760,Trinity College in the University of Toronto,3
+171,10808,Collège de Rosemont,3
+172,10820,Academy of Learning College,3
+173,10845,Sprott Shaw College,3
+174,10853,University Canada West,3
+175,10943,Collegial Sainte Anne,3
+176,10955,Yorkville University,3
+177,10955,First Nations University of Canada,3
+178,10972,Vancouver Institute of Media Arts,3
+179,10989,Master's College and Seminary,3
+180,11089,Collège de Bois de Boulogne,3
+181,11106,Lasalle College Montreal,3
+182,11205,Prairie College,3
+183,11239,University of Guelph Humber,3
+184,11312,Cégep Limoilou,3
+185,11318,University of St Michael's College,3
+186,11350,Luther College University of Regina,3
+187,11401,Briercrest College and Seminary,3
+188,11448,Brescia University College,3
+189,11465,National Circus School Montreal,3
+190,11501,Ashton College,3
+191,11543,Herzing College Montreal,3
+192,11678,Vancouver School of Theology,3
+193,11927,Nicola Valley Institute of Technology,3
+194,11935,Collège Jean de Brébeuf,3
+195,11955,Université de Sudbury / University of Sudbury,3
+196,11955,Cégep de Jonquière,3
+197,11973,University College of the North,3
+198,12079,Manitoba Institute of Trades and Technology,3
+199,12102,Cégep de Saint Jérôme,3
+200,12130,Collège Communautaire du Nouveau Brunswick,3
+201,12192,Alexander College,3
+202,12210,Huron University College at Western,3
+203,12251,Balsillie School of International Affairs,3
+204,12264,Cégep André Laurendeau,3
+205,12329,Aurora College,3
+206,12329,Cégep de Saint Hyacinthe,3
+207,12357,Saint Thomas More College,3
+208,12357,Providence University College,3
+209,12389,Lasalle College Vancouver,3
+210,12458,Gaelic College,3
+211,12500,Cégep de Saint Laurent,3
+212,12518,Atlantic School of Theology,3
+213,12547,Northern Lakes College,3
+214,12595,Cégep de l'Outaouais,3
+215,12602,Kingswood University,3
+216,12613,Collège François Xavier Garneau,3
+217,12658,Portage College,3
+218,12666,Cégep de l'Abitibi Témiscamingue,3
+219,12793,Nunavut Arctic College,3
+220,12891,Heritage College Hull Gatineau,2
+221,12957,Cégep Régional de Lanaudière,2
+222,12964,Crandall University (Atlantic Baptist University),2
+223,12982,Cégep de Matane,2
+224,13000,Cégep de la Gaspésie et des Îles,2
+225,13025,Cégep de Lévis Lauzon,2
+226,13048,Saint Mary's University College,2
+227,13073,Burman University (Canadian University College),2
+228,13172,Cégep de Chicoutimi,2
+229,13182,Cégep de Saint Jean sur Richelieu,2
+230,13279,Stenberg College,2
+231,13344,Institut de Technologie Agroalimentaire,2
+232,13447,Parkland College Melville,2
+233,13504,Coast Mountain College,2
+234,13598,(3) Champlain Regional College Saint Lawrence Campus,2
+235,13649,Taylor University College and Seminary,2
+236,13661,Collège Laflèche,2
+237,13738,Coquitlam College,2
+238,13778,Séminaire de Sherbrooke,2
+239,13791,Collège Mérici,2
+240,13821,Université de Hearst,2
+241,13849,Regis College University of Toronto,2
+242,14006,Canadian College,2
+243,14078,New Brunswick College of Craft and Design,2
+244,14091,Bethany College Hepburn,2
+245,14153,Trebas Institute Montreal,2
+246,14221,King's University College,2
+247,14263,Musitechnic Services Éducatifs Montreal,2
+248,14301,Cégep de Granby,2
+249,14347,Booth University College,2
+250,14431,Brighton College,2
+251,14472,Saint Stephen's University,2
+252,14493,Collège Gérald Godin,2
+253,14582,Cégep de La Pocatière,2
+254,14594,Collège Stanislas,2
+255,14594,Cégep Beauce Appalaches,2
+256,14651,Newman Theological College,2
+257,14748,Robertson College,2
+258,14807,Cégep de Sorel Tracy,2
+259,14838,Collège de Valleyfield,2
+260,14859,Saskatchewan Indian Institute of Technologies,2
+261,14910,École Nationale de l'Humour Montreal,2
+262,14918,Six Nations Polytechnic,2
+263,14932,Academy of Applied Pharmaceutical Sciences,2
+264,14946,Campus Notre Dame de Foy,2
+265,14969,Dominican University College,2
+266,15011,Vancouver College of Art and Design,2
+267,15022,Cégep de Saint Félicien,2
+268,15022,Educacentre College,2
+269,15217,Cégep de Baie Comeau,2
+270,15250,Cégep de Rivière du Loup,2
+271,15258,Collège International Marie de France,2
+272,15258,Acsenda School of Management,2
+273,15269,Great Plains College,2
+274,15340,Think Tank Training Centre,2
+275,15509,Oulton College,2
+276,15606,Campion College at University of Regina,2
+277,15725,Cégep de Drummondville,2
+278,15827,Collège André Grasset,2
+279,15890,Emily Carr University of Art + Design,2
+280,15909,Conservatoire de Musique et dArt Dramatique du Québec,2
+281,15938,Evergreen College,2
+282,15974,College Universitaire Dominicain / Dominican University College,2
+283,16115,(3) St Peter's College University of Saskatchewan,2
+284,16146,Southeast College,2
+285,16250,Academy of Learning Career College,2
+286,16338,Institut Teccart / Teccart Institute,2
+287,16397,Canada College Montreal,2
+288,16481,Recording Arts Canada / Institut d'enregistrement du Canada,2
+289,16510,Cornerstone International Community College,2
+290,16577,Cégep de Thetford,2
+291,16630,Assumption University,2
+292,16659,Seven Generations Educational Institute,2
+293,16742,Cégep de Victoriaville,2
+294,16901,Champlain College Lennoxville,1
+295,16935,MaKami College,1
+296,16945,O'Sullivan College of Montreal,1
+297,16963,Collège Marsan,1
+298,17014,Collège d'Alma,1
+299,17142,Westervelt College,1
+300,17183,Eton College Vancouver,1
+301,17291,Horizon College and Seminary Saskatoon,1
+302,17323,Cumberland College Canada,1
+303,17334,Reeves College,1
+304,17334,ABM College of Health and Technology,1
+305,17365,Cégep de Shawinigan,1
+306,17377,École de Danse Contemporaine de Montréal,1
+307,17428,École de Musique Vincent d'Indy,1
+308,17473,Collège O'Sullivan de Québec,1
+309,17593,Maritime College of Forest Technology,1
+310,17700,Heritage College and Seminary,1
+311,17972,First Nations Technical Institute,1
+312,17980,Cégep de Granby Haute Yamaska,1
+313,18164,Toronto Institute of Pharmaceutical Technology,1
+314,18186,College Mathieu,1
+315,18282,École de Danse de Québec,1
+316,18326,Institut Grasset Montreal,1
+317,18350,McKenzie College,1
+318,18520,Bethany College,1
+319,18706,Alberta College of Art and Design,1
+320,18762,Collège Ellis,1
+321,18897,Eston College,1
+322,19075,Collège de l'immobilier,1
+323,19085,North West College (North West Regional College),1
+324,19172,Champlain Regional College,1
+325,19411,Thorneloe University,1
+326,19411,Seminary of Christ the King,1
+327,19556,Carlton Trail Regional College,1
+328,19567,Collège Salette Montreal,1
+329,19651,Institut supérieur d'informatique Montreal,1
+330,19651,New Brunswick Bible Institute,1
+331,19731,Collège April Fortier,1
+332,19731,Collège Bart,1
+333,19753,Huntington University Canada,1
+334,19992,Northlands College,1
+335,20090,Nipawin Bible College,1
+336,20127,(1) Cégep de Sept Îles,1
+337,20232,(3) École des pêches et de l'aquaculture du Québec Cégep de la Gaspésie et des Iles,1
+338,20341,Montreal Technical College,1
+339,20397,Centre for Nursing Studies,1
+340,20458,Matrix College of Management Technology and Healthcare Inc,1
+341,20577,Maritime Christian College,1
+342,20613,Collège Ville Marie,1
+343,20750,TAV College Montreal,1
+344,20990,École du Show Business Montreal,1
+345,21290,Kenjgewin Teg,1
+346,21310,"New Skills College of Health, Business and Technology",1
+347,21754,Oshki-Pimache-O-Win,1
+348,22204,Collège NF,1
+349,22399,Collège MultiHexa,1
+350,22781,Western Academy Broadcasting College Saskatoon,1
+351,22932,Pera College,1
+352,22998,Collège de l'Île,1
+353,23100,Collège Radio Télévision de Québec,1
+354,23334,École de Sténographie judiciaire Montreal,1
+355,23344,Collège nordique francophone,1
+356,23543,Vancouver Central College,1
+357,23798,Academy Canada,1
+358,23805,Collège International des Marcellines,1
+359,23872,CDE Collège (Collège de l'Estrie) Sherbrooke,1
+360,24724,"Private Training Institutions (MTI Community College, Ashton College)",1
+361,25072,Centennial College Montreal,1
+362,25213,Collège militaire royal de Saint-Jean / Royal Military College Saint-Jean,1
+363,25376,Kingston Bible College,1
+364,25585,Ogwehoweh Skills and Trades Training Centre,1
+365,25968,Academy of Learning College Prince Edward Island,1
+366,26065,Académie de l'Entrepreneurship Québécois,1
+367,26243,Briercrest College and Seminary Caronport,1

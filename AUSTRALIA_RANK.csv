@@ -1,0 +1,193 @@
+ranking,World Rank,University,Rank
+1,49,University of Melbourne,5
+2,50,University of Queensland,5
+3,58,University of New South Wales,5
+4,67,University of Sydney,5
+5,78,Australian National University,5
+6,83,Monash University,5
+7,108,University of Adelaide,5
+8,136,University of Western Australia,5
+9,208,Queensland University of Technology,5
+10,214,Curtin University of Technology,5
+11,242,Macquarie University,5
+12,260,University of Technology Sydney,5
+13,262,University of Wollongong,5
+14,268,Griffith University,5
+15,272,Deakin University,5
+16,274,RMIT University,5
+17,328,University of Newcastle,5
+18,373,University of Tasmania,5
+19,379,University of South Australia,5
+20,386,La Trobe University,5
+21,398,James Cook University,5
+22,409,Flinders University,5
+23,431,Western Sydney University,5
+24,597,Murdoch University,5
+25,659,Victoria University,5
+26,673,Edith Cowan University,5
+27,713,Charles Sturt University,5
+28,751,University of Canberra,5
+29,775,Australian Catholic University,5
+30,796,University of New England Australia,5
+31,821,University of Southern Queensland,5
+32,837,Southern Cross University,5
+33,914,Central Queensland University CQUniversity,5
+34,1019,Charles Darwin University,5
+35,1064,University of the Sunshine Coast,5
+36,1088,Bond University,5
+37,1093,Federation University Australia,5
+38,1136,Swinburne University of Technology,5
+39,2354,Menzies School of Health Research,4
+40,3898,Australian Maritime College,4
+41,4897,Open Colleges,4
+42,5158,(3) Melbourne Business School,4
+43,5238,TAFE NSW Degrees,4
+44,5641,Torrens University Australia,4
+45,6574,University of Notre Dame Australia,4
+46,6709,Avondale College,4
+47,7095,Australian College of Applied Psychology,4
+48,7340,Melbourne Institute of Technology,4
+49,7401,Eastern College Australia,4
+50,7493,TAFE Queensland,4
+51,7520,Adelaide Institute of TAFE,4
+52,8066,Canberra Institute of Technology,4
+53,8143,Blue Mountains (Australian) International Hotel Management School,4
+54,8181,Kangan Batman Institute,4
+55,8365,Australian Film Television and Radio School,4
+56,8858,National Institute of Dramatic Art,4
+57,8883,Box Hill Institute,4
+58,8986,Chisholm Institute,4
+59,8997,Holmesglen Institute,4
+60,9210,SAE Institute Qantm College,4
+61,9424,The Tax Institute,4
+62,9468,William Angliss Institute,4
+63,9654,International College of Management Sydney,4
+64,9750,(4) ACS Distance Education,4
+65,9750,Australian Institute of Business,4
+66,9796,Melbourne Polytechnic,4
+67,9941,Australia College of Nursing,4
+68,10140,Alphacrucis College (Harvest Bible College),4
+69,10233,South Metropolitan TAFE (Polytechnic West),4
+70,10259,JMC Academy,4
+71,10412,Endeavour College of Natural Health,4
+72,10906,INSEARCH,4
+73,10909,National Art School (Darlinghurst School of Art & Design),4
+74,10929,Moore Theological College,4
+75,10972,Taylors College,4
+76,10978,Governance Institute of Australia,4
+77,11089,Engineering Institute of Technology,3
+78,11293,Australian Defence Force Academy at UNSW,3
+79,11293,Billy Blue College,3
+80,11350,Melbourne College of Advanced Education,3
+81,11521,Australian Institute of Music,3
+82,11620,North Metropolitan TAFE,3
+83,11774,Law Society of South Australia,3
+84,11795,Batchelor Institute of Indigenous Tertiary Education,3
+85,11806,Holmes Institute,3
+86,11806,Kaplan Business School,3
+87,11830,Monash College,3
+88,11878,Australian College of Physical Education,3
+89,12008,South Australian Institute of Business and Technology,3
+90,12016,The College of Law,3
+91,12057,Gordon Geelong Institute of TAFE,3
+92,12114,Think: Colleges,3
+93,12235,Excelsia College (Wesley Institute),3
+94,12329,University of Divinity,3
+95,12452,IIBIT,3
+96,12879,Top Education Institute,3
+97,12990,International College of Hotel Management,3
+98,13000,Sydney Institute of Business and Technology Macquarie University,3
+99,13149,Whitehouse Institute of Design,3
+100,13323,Victorian Institute of Forensic Medicine,3
+101,13356,Christian Heritage College,3
+102,13539,Nature Care College,3
+103,13587,Edith Cowan College (Perth Institute of Business and Technology),3
+104,13861,Deakin College (formerly Melbourne Institute of Business and Technology),3
+105,13951,(3) James Cook University Brisbane,3
+106,14161,Photography Studies College Melbourne,3
+107,14199,Curtin College,3
+108,14324,William Blue College of Hospitality and Tourism,3
+109,14402,Macleay College,3
+110,14574,Academy of Information Technology,3
+111,14582,Marcus Oldham College,3
+112,14594,Adelaide Central School of Art,3
+113,14969,Murdoch Institute of Technology,3
+114,15167,Australian Ballet School,3
+115,15177,Raffles College of Design and Commerce,3
+116,15332,Kent Institute of Business and Technology,2
+117,15340,Tabor College Australia,2
+118,15478,Collarts,2
+119,15584,Campion College,2
+120,15615,Sydney Missionary and Bible College,2
+121,15640,Victorian College of Optometry,2
+122,15855,Australian Lutheran College,2
+123,15926,LCI Melbourne,2
+124,15964,King's Own Institute,2
+125,16217,UOW College,2
+126,16255,Nan Tien Institute,2
+127,16386,Sydney College of Divinity,2
+128,16397,Australian Institute of Management Western Australia,2
+129,16725,Kenvale College,2
+130,17142,Australian College of Theology,2
+131,17245,Queensland Theological College,2
+132,17334,Newcastle International College,2
+133,17428,Morling College,2
+134,17533,Jansen Newman Institute,2
+135,17620,John Paul II Institute for Marriage and Family Melbourne,2
+136,17700,Jschool Journalism Education & Training,2
+137,17918,HETI Health Education & Training,2
+138,17935,Australian Institute of Higher Education AIH,2
+139,17992,Jazz Music Institute,2
+140,18040,Leo Cussen Centre for Law,2
+141,18164,Sydney Institute of Traditional Chinese Medicine,2
+142,18335,Australian Institute of Police Management,2
+143,18487,Academies Australasia Polytechnic,2
+144,18499,Australian College of Technology,2
+145,18817,Reformed Theological College,2
+146,18997,Stott's Colleges,2
+147,19378,Adelaide College of Divinity,2
+148,19540,Perth Bible College,2
+149,19706,Catholic Theological College,2
+150,19815,Universal Business School Sydney UBSS,2
+151,19824,Worldview Centre for Inter Cultural Studies,2
+152,19913,FBI Fashion College,2
+153,19936,National College Australia,2
+154,20017,Malyon College,1
+155,20127,Carnegie Mellon University Australia,1
+156,20183,Vose Seminary,1
+157,20208,Youthworks College,1
+158,20232,Queensland Agricultural Training Colleges,1
+159,20425,Academy of Music and Performing Arts (Australian International Conservatorium of Music),1
+160,20479,Brisbane School of Theology,1
+161,20486,Christ College,1
+162,20494,Trinity Theological College,1
+163,20505,Australian Guild of Music Education,1
+164,20645,Australian College of Christian Studies,1
+165,20689,Bible College of South Australia,1
+166,20731,College of Christian Higher Education,1
+167,20775,Williams Business College,1
+168,20827,Australian Institute of Technical Training,1
+169,20990,Nazarene Theological College,1
+170,21069,Ridley College,1
+171,21190,Oceanic Polytechnic,1
+172,21356,International Institute of Business and Technology Australia,1
+173,21451,Imperial College of Australia,1
+174,21502,Elite Education Institute,1
+175,21654,Cairnmillar Institute School of Psychology Counselling and Psychotherapy,1
+176,21715,Melbourne Institute for Experiential and Creative Arts Therapy MIECAT,1
+177,21779,Australian National College,1
+178,21779,Presbyterian Theological College,1
+179,21887,Centre for Pavement Engineering Education,1
+180,22346,Mary Andrews College,1
+181,22919,Institute of Technology Australia,1
+182,23009,Eynesbury Institute of Business and Technology,1
+183,23076,Sheridan College Australia,1
+184,23083,Mayfield Education,1
+185,23434,Kingsley College,1
+186,23825,Montessori World Educational Institute,1
+187,24729,Summer Institute of Linguistics Australia,1
+188,25206,Asia Pacific International College,1
+189,25565,Investment Banking Institute Business School,1
+190,26649,Kollel Beth HaTalmud Yehuda Fishman Institute,1
+191,26744,Australasian College of Health and Wellness,1
+192,27726,Leaders Institute Brisbane,1
